@@ -1,0 +1,1841 @@
+Page Title: Fury & Flames
+Section: 
+Caption: Track listing
+No tables found in the section
+
+Page Title: 2002 British Formula Three season
+Section: Scholarship Class
+Caption: Scholarship Class
+Section not found
+
+Page Title: Medicine Hat (N.W.T. electoral district)
+Section: 1894 election
+Caption: 1894 election
+Section not found
+
+Page Title: Traditional music in Kosovo
+Section: Dirge (Kenge Vaji)
+Caption: Dirge (Kenge Vaji)
+The table was found
+The table did not change.
+
+Page Title: Johnson C. Smith University
+Section: Fraternities  &  sororities
+Caption: Fraternities  &  sororities
+Section not found
+
+Page Title: List of accolades received by Blue Velvet
+Section: Awards and nominations
+Caption: Awards and nominations
+The table was found
+Difference in row 6:
+Old row: ['s Golden Globe Award', '1987', 'Best Screenplay', 'David Lynch', '', 'Nominated']
+New row: ['Golden Globe Awards', '1987', 'Best Screenplay', 'David Lynch', '', 'Nominated']
+Difference in row 7:
+Old row: ['s Golden Globe Award', '1987', 'Best Supporting Actor', 'Dennis Hopper', '', 'Nominated']
+New row: ['Golden Globe Awards', '1987', 'Best Supporting Actor', 'Dennis Hopper', '', 'Nominated']
+Difference in row 9:
+Old row: ['Independent Spirit Awards', '1987', 'Best Director', 'David Lynch', '', 'Nominated']
+New row: ['Independent Spirit Awards', '1987', 'Best Female Lead', 'Laura Dern', '', 'Nominated']
+Difference in row 10:
+Old row: ['Independent Spirit Awards', '1987', 'Best Screenplay', 'David Lynch', '', 'Nominated']
+New row: ['Independent Spirit Awards', '1987', 'Best Director', 'David Lynch', '', 'Nominated']
+Difference in row 11:
+Old row: ['Independent Spirit Awards', '1987', 'Best Cinematography', 'Frederick Elmes', '', 'Nominated']
+New row: ['Independent Spirit Awards', '1987', 'Best Screenplay', 'David Lynch', '', 'Nominated']
+Difference in row 12:
+Old row: ['Independent Spirit Awards', '1987', 'Best Female Lead', 'Laura Dern', '', 'Nominated']
+New row: ['Independent Spirit Awards', '1987', 'Best Cinematography', 'Frederick Elmes', '', 'Nominated']
+
+Page Title: 2013 PEI Tankard
+Section: 1 vs. 2
+Caption: 1 vs. 2
+The table was found
+Difference in the header:
+Old header: [['Sheet 3', '1', '2', '3', '4', '6', '7', '9', '10', 'Final']]
+New header: [['Sheet 3', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Final']]
+Difference in row 1:
+Old row: ['MacKenzie', '1', '0', '0', '1', '0', '1', '2', 'X', '7']
+New row: ['MacKenzie', '1', '0', '0', '1', '1', '0', '1', '1', '2', 'X', '7']
+Difference in row 2:
+Old row: ['MacDonald', '0', '0', '1', '0', '1', '0', '0', 'X', '2']
+New row: ['MacDonald', '0', '0', '1', '0', '0', '1', '0', '0', '0', 'X', '2']
+
+Page Title: Tally Solutions
+Section: Awards and recognition
+Caption: Awards and recognition
+Section not found
+
+Page Title: German submarine U-182
+Section: Summary of raiding history
+Caption: Summary of raiding history
+The table was found
+Difference in the header:
+Old header: [['Date', 'Ship', 'Nationality', 'Tonnage', 'Fate']]
+New header: [['Date', 'Ship', 'Nationality', 'Tonnage(GRT)', 'Fate']]
+Difference in row 1:
+Old row: ['15 January 1943', 'Ocean Courage', 'Great Britain', '7,173', 'Sunk']
+New row: ['15 January 1943', 'Ocean Courage', 'United Kingdom', '7,173', 'Sunk']
+Difference in row 2:
+Old row: ['17 February 1943', 'Llanashe', 'Great Britain', '4,836', 'Sunk']
+New row: ['17 February 1943', 'Llanashe', 'United Kingdom', '4,836', 'Sunk']
+Difference in row 3:
+Old row: ['10 March 1943', 'Richard D. Spaight', 'US', '7,177', 'Sunk']
+New row: ['10 March 1943', 'Richard D. Spaight', 'United States', '7,177', 'Sunk']
+Difference in row 4:
+Old row: ['5 April 1943', 'Aloe', 'Great Britain', '5,047', 'Sunk']
+New row: ['5 April 1943', 'Aloe', 'United Kingdom', '5,047', 'Sunk']
+
+Page Title: San Diego Trolley
+Section: Floor plans
+Caption: Floor plans
+Section not found
+
+Page Title: List of 4th-century BCE lunar eclipses
+Section: List of lunar eclipses between -399 and -300
+Caption: List of lunar eclipses between -399 and -300
+Section not found
+
+Page Title: RideLondon–Surrey Classic
+Section: Sprints classification
+Caption: Sprints classification
+The table was found
+Difference in the header:
+Old header: [['Sprint', 'Race distance']]
+New header: [['Sprint', '1st', '2nd', '3rd', '4th']]
+Difference in row 1:
+Old row: ['Hampton Court Palace', 'km (mi)']
+New row: ['Intermediate Sprint', '5', '3', '2', '1']
+
+Page Title: Carlow–Kildare (Dáil Éireann constituency)
+Section: 1938 general election
+Caption: 1938 general election
+The table was found
+Difference in the header:
+Old header: [['1938 general election : Carlow–Kildare', '1938 general election : Carlow–Kildare', '1938 general election : Carlow–Kildare', '1938 general election : Carlow–Kildare', '1938 general election : Carlow–Kildare', '1938 general election : Carlow–Kildare', '1938 general election : Carlow–Kildare'], ['Party', 'Party', 'Candidate', '1st Pref', '%', 'Seat', 'Count']]
+New header: [['Party', 'Party', 'Candidate', 'FPv%', 'Count', 'Count', 'Count', 'Count', 'Count'], ['1', '2', '3', '4', '5']]
+Difference in row 1:
+Old row: ['', 'Fianna Fáil', 'Thomas Harris', '7,874', '22.0', '1', '1']
+New row: ['', 'Fianna Fáil', 'Thomas Harris', '22.0', '7,874']
+Difference in row 2:
+Old row: ['', 'Labour Party', 'William Norton', '7,467', '20.8', '2', '1']
+New row: ['', 'Labour', 'William Norton', '20.8', '7,467']
+Difference in row 3:
+Old row: ['', 'Fianna Fáil', 'Francis Humphreys', '5,645', '15.8', '3', '']
+New row: ['', 'Fine Gael', 'James Hughes', '17.0', '6,104']
+Difference in row 4:
+Old row: ['', 'Fine Gael', 'James Hughes', '6,104', '17.0', '4', '']
+New row: ['', 'Fine Gael', 'Sydney Minch', '16.0', '5,749']
+Difference in row 5:
+Old row: ['', 'Fine Gael', 'Sydney Minch', '5,749', '16.1', '', '']
+New row: ['', 'Fianna Fáil', 'Francis Humphreys', '15.8', '5,645']
+Difference in row 6:
+Old row: ['', 'Fianna Fáil', 'William Tynan', '2,988', '8.3', '', '']
+New row: ['', 'Fianna Fáil', 'William Tynan', '8.3', '2,988']
+Difference in row 7:
+Old row: ['Electorate: ? Valid: 35,827 Quota: 7,166 Turnout:', 'Electorate: ? Valid: 35,827 Quota: 7,166 Turnout:', 'Electorate: ? Valid: 35,827 Quota: 7,166 Turnout:', 'Electorate: ? Valid: 35,827 Quota: 7,166 Turnout:', 'Electorate: ? Valid: 35,827 Quota: 7,166 Turnout:', 'Electorate: ? Valid: 35,827 Quota: 7,166 Turnout:', 'Electorate: ? Valid: 35,827 Quota: 7,166 Turnout:']
+New row: ['Electorate:48,552Valid:35,827Quota:7,166Turnout:73.8%', 'Electorate:48,552Valid:35,827Quota:7,166Turnout:73.8%', 'Electorate:48,552Valid:35,827Quota:7,166Turnout:73.8%', 'Electorate:48,552Valid:35,827Quota:7,166Turnout:73.8%', 'Electorate:48,552Valid:35,827Quota:7,166Turnout:73.8%']
+
+Page Title: Pot of Gold (Game song)
+Section: Radio release
+Caption: Radio release
+The table was found
+Difference in row 1:
+Old row: ['Worldwide', 'June 22, 2011', 'Radio premiere']
+New row: ['United States', 'July 12, 2011', 'Rhythmic radio']
+
+Page Title: List of Sidecarcross World Championship records and statistics
+Section: GP winning drivers
+Caption: GP winning drivers
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: The Mexecutioner! – The Best of Brujeria
+Section: 
+Caption: Track listing
+No tables found in the section
+
+Page Title: Brentina
+Section: Pedigree
+Caption: Pedigree of Brentina
+Section not found
+
+Page Title: Steve Jensen
+Section: Career
+Caption: Career
+No tables found in the section
+
+Page Title: List of U.S. states and territories by population
+Section: States and territories
+Caption: States and territories
+Section not found
+
+Page Title: Maricopa County Sheriff's Office
+Section: Rank structure
+Caption: Rank structure
+The table was found
+Difference in row 2:
+Old row: ['Chief', '']
+New row: ['Chief Deputy', '']
+Difference in row 3:
+Old row: ['Captain', '']
+New row: ['Executive Chief', '']
+Difference in row 4:
+Old row: ['Lieutenant', '']
+New row: ['Deputy Chief', '']
+Difference in row 5:
+Old row: ['Sergeant', '']
+New row: ['Captain', '']
+Difference in row 6:
+Old row: ['Detective', '']
+New row: ['Lieutenant', '']
+Difference in row 7:
+Old row: ['Deputy', '']
+New row: ['Sergeant', '']
+
+Page Title: List of Hercules: The Legendary Journeys episodes
+Section: Season Five (1998–1999)
+Caption: Season Five (1998–1999)
+Section not found
+
+Page Title: List of monastic houses in Berkshire
+Section: Map link to lists of monastic houses in England by county
+Caption: 
+Section not found
+
+Page Title: Grandia (video game)
+Section: Audio
+Caption: Audio
+No tables found in the section
+
+Page Title: Wrestling at the 2013 Summer Universiade
+Section: Freestyle
+Caption: Freestyle
+The table was found
+Difference in row 1:
+Old row: ['55 kg details', 'Nariman Israpilov Russia (RUS)', 'Samat Nadyrbek Uulu Kyrgyzstan (KGZ)', 'Fumitaka Morishita Japan (JPN)']
+New row: ['48\xa0kg', 'Eri TosakaJapan', 'Patimat BagomedovaAzerbaijan', 'Valeriya ChepsarakovaRussia']
+Difference in row 2:
+Old row: ['55 kg details', 'Nariman Israpilov Russia (RUS)', 'Samat Nadyrbek Uulu Kyrgyzstan (KGZ)', 'Berdakh Primbayev Kazakhstan (KAZ)']
+New row: ['48\xa0kg', 'Eri TosakaJapan', 'Patimat BagomedovaAzerbaijan', 'Mariya LivachUkraine']
+Difference in row 3:
+Old row: ['60 kg details', 'Bekkhan Goygereyev Russia (RUS)', 'Behnam Ehsanpour Iran (IRI)', 'Vasyl Shuptar Ukraine (UKR)']
+New row: ['51\xa0kg', 'Hikari SugawaraJapan', 'Erdenechimegiin SumiyaaMongolia', 'Yuliya BlahinyaUkraine']
+Difference in row 4:
+Old row: ['60 kg details', 'Bekkhan Goygereyev Russia (RUS)', 'Behnam Ehsanpour Iran (IRI)', 'Haji Aliyev Azerbaijan (AZE)']
+New row: ['51\xa0kg', 'Hikari SugawaraJapan', 'Erdenechimegiin SumiyaaMongolia', 'Ekaterina KrasnovaRussia']
+Difference in row 5:
+Old row: ['66 kg details', 'Magomed Kurbanaliev Russia (RUS)', 'David Safaryan Armenia (ARM)', 'Ganzorigiin Mandakhnaran Mongolia (MGL)']
+New row: ['55\xa0kg', 'Valeria KoblovaRussia', 'Iryna HusyakUkraine', 'Hwang Sun-byolNorth Korea']
+Difference in row 6:
+Old row: ['66 kg details', 'Magomed Kurbanaliev Russia (RUS)', 'David Safaryan Armenia (ARM)', 'Semen Radulov Ukraine (UKR)']
+New row: ['55\xa0kg', 'Valeria KoblovaRussia', 'Iryna HusyakUkraine', 'Kanako MurataJapan']
+Difference in row 7:
+Old row: ['74 kg details', 'Denis Tsargush Russia (RUS)', 'Jabrayil Hasanov Azerbaijan (AZE)', 'David Taylor III United States (USA)']
+New row: ['59\xa0kg', 'Yuliya RatkevichAzerbaijan', 'Alli RaganUnited States', 'Aisuluu TynybekovaKyrgyzstan']
+Difference in row 8:
+Old row: ['74 kg details', 'Denis Tsargush Russia (RUS)', 'Jabrayil Hasanov Azerbaijan (AZE)', 'Zaur Efendiev Serbia (SRB)']
+New row: ['59\xa0kg', 'Yuliya RatkevichAzerbaijan', 'Alli RaganUnited States', 'Emese BarkaHungary']
+Difference in row 9:
+Old row: ['84 kg details', 'Gheorghiţă Ştefan Romania (ROU)', 'Shamil Kudiamagomedov Russia (RUS)', 'Petru Ianulov Moldova (MDA)']
+New row: ['63\xa0kg', 'Soronzonboldyn BattsetsegMongolia', 'Maria LyulkovaRussia', 'Irina NetrebaAzerbaijan']
+Difference in row 10:
+Old row: ['84 kg details', 'Gheorghiţă Ştefan Romania (ROU)', 'Shamil Kudiamagomedov Russia (RUS)', 'Mohammad Hossein Mohammadian Iran (IRI)']
+New row: ['63\xa0kg', 'Soronzonboldyn BattsetsegMongolia', 'Maria LyulkovaRussia', 'Maryia MamashukBelarus']
+Difference in row 11:
+Old row: ['96 kg details', 'Abdusalam Gadisov Russia (RUS)', 'Pavlo Oliynyk Ukraine (UKR)', 'Dorjkhandyn Khüderbulga Mongolia (MGL)']
+New row: ['67\xa0kg', 'Sara DoshoJapan', 'Ochirbatyn NasanburmaaMongolia', 'Stacie AnakaCanada']
+Difference in row 12:
+Old row: ['96 kg details', 'Abdusalam Gadisov Russia (RUS)', 'Pavlo Oliynyk Ukraine (UKR)', 'Alikhan Jumayev Kazakhstan (KAZ)']
+New row: ['67\xa0kg', 'Sara DoshoJapan', 'Ochirbatyn NasanburmaaMongolia', 'Alina StadnykUkraine']
+Difference in row 13:
+Old row: ['120 kg details', 'Taha Akgül Turkey (TUR)', 'Oleksandr Khotsianivskyi Ukraine (UKR)', 'Parviz Hadi Iran (IRI)']
+New row: ['72\xa0kg', 'Ekaterina BukinaRussia', 'Brittney RobertsUnited States', 'Erica WiebeCanada']
+Difference in row 14:
+Old row: ['120 kg details', 'Taha Akgül Turkey (TUR)', 'Oleksandr Khotsianivskyi Ukraine (UKR)', 'Tyrel Fortune United States (USA)']
+New row: ['72\xa0kg', 'Ekaterina BukinaRussia', 'Brittney RobertsUnited States', 'Halina LeuchankaBelarus']
+
+Page Title: 1997–98 Hong Kong First Division League
+Section: Championship Playoff
+Caption: Championship Playoff
+The table was found
+Difference in the header:
+Old header: [['P', 'Team', 'Pld', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts', 'Notes']]
+New header: [['Pos', 'Team', 'Pld', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts', 'Qualification']]
+
+Page Title: Monsun
+Section: Pedigree
+Caption: Pedigree of Monsun (GER) 1990
+The table was found
+Difference in the header:
+Old header: [['Sire Königsstuhl (GER) 1976', 'Dschingis Khan (GER) 1961', 'Tamerlane', 'Persian Gulf']]
+New header: []
+Difference in row 1:
+Old row: ['Eastern Princess', '', '', '']
+New row: []
+Difference in row 2:
+Old row: ['Donna Diana', 'Neckar', '', '']
+New row: []
+Difference in row 3:
+Old row: ['Donna Diana', 'Donatella', '', '']
+New row: []
+Difference in row 4:
+Old row: ['Konigskronung (GER) 1965', 'Tiepoletto', 'Tornado', '']
+New row: []
+Difference in row 5:
+Old row: ['Konigskronung (GER) 1965', 'Tiepoletto', 'Scarlet Skies', '']
+New row: []
+Difference in row 6:
+Old row: ['Konigskronung (GER) 1965', 'Kronung', 'Olymp', '']
+New row: []
+Difference in row 7:
+Old row: ['Konigskronung (GER) 1965', 'Kronung', 'Kaiserkrone', '']
+New row: []
+Difference in row 8:
+Old row: ['Dam Mosella (GER) 1985', 'Surumu (GER) 1974', 'Literat', 'Birkhahn']
+New row: []
+Difference in row 9:
+Old row: ['Dam Mosella (GER) 1985', 'Surumu (GER) 1974', 'Literat', 'Lis']
+New row: []
+Difference in row 10:
+Old row: ['Dam Mosella (GER) 1985', 'Surumu (GER) 1974', 'Surama', 'Reliance II']
+New row: []
+Difference in row 11:
+Old row: ['Dam Mosella (GER) 1985', 'Surumu (GER) 1974', 'Surama', 'Suncourt']
+New row: []
+Difference in row 12:
+Old row: ['Dam Mosella (GER) 1985', 'Monasia (GER) 1979', 'Authi', 'Aureole']
+New row: []
+Difference in row 13:
+Old row: ['Dam Mosella (GER) 1985', 'Monasia (GER) 1979', 'Authi', 'Virtuous']
+New row: []
+Difference in row 14:
+Old row: ['Dam Mosella (GER) 1985', 'Monasia (GER) 1979', 'Monacensia', 'Kaiseradler']
+New row: []
+Difference in row 15:
+Old row: ['Dam Mosella (GER) 1985', 'Monasia (GER) 1979', 'Monacensia', 'Motette']
+New row: []
+
+Page Title: List of Olympic medalists in Nordic combined
+Section: 10 km individual large hill
+Caption: 10 km individual large hill
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: 1979–80 Buffalo Sabres season
+Section: Forwards
+Caption: Forwards
+The table was found
+Difference in the header:
+Old header: [['Player']]
+New header: [['Player', 'GP', 'G', 'A', 'Pts', 'PIM']]
+Difference in row 1:
+Old row: ['']
+New row: ['', '', '', '', '', '']
+
+Page Title: Rodrigo Archubi
+Section: Titles
+Caption: Titles
+No tables found in the section
+
+Page Title: Ten Miles
+Section: Charts
+Caption: Charts
+The table was found
+Difference in the header:
+Old header: [['Chart (2007)', 'Peak position']]
+New header: [['Chart (2007)', 'Peakposition']]
+Difference in row 1:
+Old row: ['Danish Singles Chart', '3']
+New row: ['Denmark (Danish Singles Chart)', '3']
+Difference in row 2:
+Old row: ['French Singles Chart', '84']
+New row: ['France (FrenchSingles Chart)', '84']
+Difference in row 4:
+Old row: ['Spanish Singles Chart', '26']
+New row: ['Spain (SpanishSingles Chart)', '26']
+
+Page Title: The Essential Pansy Division
+Section: 
+Caption: Track listing
+No tables found in the section
+
+Page Title: Ferris wheel
+Section: Early history
+Caption: Early history
+The table was found
+Difference in the header:
+Old header: [['']]
+New header: []
+Difference in row 1:
+Old row: ['Early pleasure wheels depicted in 17th-century engravings, to the left by Adam Olearius , to the right a Turkish design, apparently for adults']
+New row: []
+
+Page Title: Brenda K. Starr (album)
+Section: 
+Caption: Release
+No tables found in the section
+
+Page Title: Road to Redemption
+Section: Broadcast schedule
+Caption: Road To Redemption presented by NIKE
+Section not found
+
+Page Title: 2012 in Ecuadorian football
+Section: Copa Libertadores
+Caption: First Stage: Match G4 standings
+Section not found
+
+Page Title: List of awards and nominations received by Lindsay Lohan
+Section: Other industry awards
+Caption: Other industry awards
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: FK Jelgava
+Section: Latvian SSR
+Caption: Latvian SSR
+Section not found
+
+Page Title: 1987 World Rally Championship season
+Section: Championship for manufacturers
+Caption: 1987 World Rally Championship for Manufacturers
+The table was found
+Difference in the header:
+Old header: [['Rank', 'Manufacturers', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Total points'], ['Rank', 'Manufacturers', 'MON', 'SWE', 'POR', 'KEN', 'FRA', 'GRC', 'USA', 'ARG', 'FIN', 'ITA', 'GBR', 'Total points']]
+New header: [['Rank', 'Manufacturers', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Event', 'Totalpoints'], ['MON', 'SWE', 'POR', 'KEN', 'FRA', 'GRC', 'USA', 'ARG', 'FIN', 'ITA', 'GBR']]
+Difference in row 1:
+Old row: ['1', 'Lancia', '20', '-', '20', '-', '-', '20', '20', '20', '20', '20', '-', '140']
+New row: ['1', 'Lancia', '20', '-', '20', '-', '-', '20', '20', '20', '20']
+Difference in row 2:
+Old row: ['2', 'Audi', '14', '6', '8', '20', '-', '14', '-', '-', '12', '-', '8', '82']
+New row: ['2', 'Audi', '14', '6', '8', '20', '-', '14', '-', '-', '12']
+Difference in row 3:
+Old row: ['3', 'Renault', '8', '-', '17', '-', '12', '10', '-', '10', '-', '14', '-', '71']
+New row: ['3', 'Renault', '8', '-', '17', '-', '12', '10', '-', '10', '-']
+Difference in row 4:
+Old row: ['4', 'Volkswagen', '10', '4', '14', '12', '-', '8', '-', '14', '-', '-', '2', '64']
+New row: ['4', 'Volkswagen', '10', '4', '14', '12', '-', '8', '-', '14', '-']
+Difference in row 5:
+Old row: ['5', 'Ford', '-', '8', '2', '-', '6', '-', '-', '-', '17', '12', '17', '62']
+New row: ['5', 'Ford', '-', '8', '2', '-', '6', '-', '-', '-', '17']
+Difference in row 6:
+Old row: ['6', 'Mazda', '12', '20', '-', '-', '-', '-', '12', '-', '8', '-', '-', '52']
+New row: ['6', 'Mazda', '12', '20', '-', '-', '-', '-', '12', '-', '8']
+Difference in row 7:
+Old row: ['7', 'Toyota', '-', '-', '-', '14', '-', '-', '8', '-', '-', '-', '-', '22']
+New row: ['7', 'Toyota', '-', '-', '-', '14', '-', '-', '8', '-', '-']
+Difference in row 8:
+Old row: ['8', 'BMW', '-', '-', '-', '-', '20', '-', '-', '-', '-', '-', '-', '20']
+New row: ['8', 'BMW', '-', '-', '-', '-', '20', '-', '-', '-', '-']
+Difference in row 9:
+Old row: ['9', 'Opel', '-', '-', '-', '2', '-', '-', '-', '-', '-', '8', '6', '16']
+New row: ['9', 'Opel', '-', '-', '-', '2', '-', '-', '-', '-', '-']
+Difference in row 10:
+Old row: ['10', 'Subaru', '1', '-', '-', '10', '-', '-', '-', '-', '-', '-', '1', '12']
+New row: ['10', 'Subaru', '1', '-', '-', '10', '-', '-', '-', '-', '-']
+Difference in row 11:
+Old row: ['11', 'Nissan', '-', '-', '-', '4', '-', '1', '4', '-', '-', '-', '-', '9']
+New row: ['11', 'Nissan', '-', '-', '-', '4', '-', '1', '4', '-', '-']
+Difference in row 12:
+Old row: ['12', 'Fiat', '-', '-', '1', '-', '-', '-', '-', '4', '-', '-', '-', '5']
+New row: ['12', 'Fiat', '-', '-', '1', '-', '-', '-', '-', '4', '-']
+
+Page Title: List of Horrible Histories episodes
+Section: Series 2: 2010
+Caption: Series 2: 2010
+Section not found
+
+Page Title: Order of battle at the Glorious First of June
+Section: Attached squadrons
+Caption: Attached squadrons
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: Kepler-69c
+Section: Host star and star system
+Caption: Host star and star system
+Section not found
+
+Page Title: Scottish District local elections, 1992
+Section: Fife
+Caption: Fife
+The table was found
+Difference in the header:
+Old header: [['Council', '1988 result', '1988 result', 'National control', '1992 result', 'Turnout']]
+New header: [['District', '1988 result', '1988 result', '1992 result', '1992 result', 'Turnout', 'Details']]
+Difference in row 1:
+Old row: ['Dunfermline', '', 'Labour', '', 'Labour', '']
+New row: ['Dunfermline', '', 'Labour', '', 'Labour', '', 'Details']
+Difference in row 2:
+Old row: ['Kirkcaldy', '', 'Labour', '', 'Labour', '']
+New row: ['Kirkcaldy', '', 'Labour', '', 'Labour', '', 'Details']
+Difference in row 3:
+Old row: ['North-East Fife', '', 'Liberal Democrat', '', 'Liberal Democrat', '']
+New row: ['North-East Fife', '', 'Liberal Democrats', '', 'Liberal Democrats', '', 'Details']
+
+Page Title: National Register of Historic Places listings in The Highlands, Louisville, Kentucky
+Section: Former listings
+Caption: Former listings
+Section not found
+
+Page Title: Electoral division of Hobart
+Section: Members
+Caption: Members
+No tables found in the section
+
+Page Title: 2013 S.League
+Section: 2013 S.League Season Kits
+Caption: 2013 S.League Season Kits
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: Eight Frames a Second
+Section: Release history
+Caption: Release history
+The table was found
+Difference in row 4:
+Old row: ['South Africa', '1975', 'Logo', 'LP', 'LGD6001', 'Record 2 of 2LP set "2 Originals of Ralph McTell"']
+New row: ['South Africa', '1975', 'Logo', 'LP', 'LGD6001', 'Record 2 of 2-LP set "2 Originals of Ralph McTell"']
+Difference in row 5:
+Old row: ['France', '1978', 'Transatlantic', 'LP', 'TRA89554/5', 'Record 1 of 2LP set. Record 2 is "Spiral Staircase"']
+New row: ['France', '1978', 'Transatlantic', 'LP', 'TRA89554/5', 'Record 1 of 2-LP set. Record 2 is "Spiral Staircase"']
+
+Page Title: Detroit Pistons draft history
+Section: As Detroit Pistons (1957–present)
+Caption: As Detroit Pistons (1957–present)
+Section not found
+
+Page Title: Eduard von der Heydt
+Section: Pedigree
+Caption: Pedigree
+Section not found
+
+Page Title: 11th government of Turkey
+Section: The government
+Caption: The government
+The table was found
+The table did not change.
+
+Page Title: Phuket F.C.
+Section: Seasons
+Caption: Seasons
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: List of Baywatch episodes
+Section: Season 6 (1995–1996)
+Caption: Season 6 (1995–1996)
+The table was found
+Difference in the header:
+Old header: [['Release Order', 'Title', 'Original airdate', 'Episode Number']]
+New header: [['No.overall', 'No.inseason', 'Title', 'Directed by', 'Written by', 'Original air date', 'Prod.code']]
+Difference in row 1:
+Old row: ['111', '"Trapped Beneath the Sea, Part I"', 'September25,1995', '601']
+New row: ['110', '1', '"Trapped Beneath the Sea, Part I"', 'Gregory J. Bonann', 'Michael Berk', 'September\xa030,\xa01995(1995-09-30)', '6003']
+Difference in row 2:
+Old row: ['Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths.']
+New row: ['Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths. Mitch hints at starting adetective agency.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths. Mitch hints at starting adetective agency.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths. Mitch hints at starting adetective agency.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths. Mitch hints at starting adetective agency.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths. Mitch hints at starting adetective agency.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths. Mitch hints at starting adetective agency.', 'Mitch and his crew face a desperate situation when an old mine collides with an offshore oil rig, causing it to explode and sink into the ocean depths. Mitch hints at starting adetective agency.']
+Difference in row 3:
+Old row: ['112', '"Trapped Beneath the Sea, Part II"', 'October2,1995', '602']
+New row: ['111', '2', '"Trapped Beneath the Sea, Part II"', 'Gregory J. Bonann', 'Michael Berk', 'October\xa07,\xa01995(1995-10-07)', '6004']
+Difference in row 4:
+Old row: ['Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.']
+New row: ['Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.', 'Mitch and company must fight their way out of the collapsed oil platform that has sunken to the bottom of the sea while rescue teams attempt to lift it up to the surface.']
+Difference in row 5:
+Old row: ['113', '"Hot Stuff"', 'October9,1995', '603']
+New row: ['112', '3', '"Hot Stuff"', 'Georg Fenady', 'David Braff', 'October\xa014,\xa01995(1995-10-14)', '6008']
+Difference in row 6:
+Old row: ['The lifeguards must save the life of a blind girl ( Mila Kunis ) trapped in a fire in the woods.', 'The lifeguards must save the life of a blind girl ( Mila Kunis ) trapped in a fire in the woods.', 'The lifeguards must save the life of a blind girl ( Mila Kunis ) trapped in a fire in the woods.', 'The lifeguards must save the life of a blind girl ( Mila Kunis ) trapped in a fire in the woods.']
+New row: ['Logan becomes jealous when Cody begins to flirt with Caroline during and after rescues; Neely wants to break away from manning the switchboard and become a tower lifeguard; Kaye asks Hobie to help volunteer a group of four young blind children she is looking after at a blind school; The lifeguards must save a blind boy trapped in a forest fire.Mila Kunisguest stars.', 'Logan becomes jealous when Cody begins to flirt with Caroline during and after rescues; Neely wants to break away from manning the switchboard and become a tower lifeguard; Kaye asks Hobie to help volunteer a group of four young blind children she is looking after at a blind school; The lifeguards must save a blind boy trapped in a forest fire.Mila Kunisguest stars.', 'Logan becomes jealous when Cody begins to flirt with Caroline during and after rescues; Neely wants to break away from manning the switchboard and become a tower lifeguard; Kaye asks Hobie to help volunteer a group of four young blind children she is looking after at a blind school; The lifeguards must save a blind boy trapped in a forest fire.Mila Kunisguest stars.', 'Logan becomes jealous when Cody begins to flirt with Caroline during and after rescues; Neely wants to break away from manning the switchboard and become a tower lifeguard; Kaye asks Hobie to help volunteer a group of four young blind children she is looking after at a blind school; The lifeguards must save a blind boy trapped in a forest fire.Mila Kunisguest stars.', 'Logan becomes jealous when Cody begins to flirt with Caroline during and after rescues; Neely wants to break away from manning the switchboard and become a tower lifeguard; Kaye asks Hobie to help volunteer a group of four young blind children she is looking after at a blind school; The lifeguards must save a blind boy trapped in a forest fire.Mila Kunisguest stars.', 'Logan becomes jealous when Cody begins to flirt with Caroline during and after rescues; Neely wants to break away from manning the switchboard and become a tower lifeguard; Kaye asks Hobie to help volunteer a group of four young blind children she is looking after at a blind school; The lifeguards must save a blind boy trapped in a forest fire.Mila Kunisguest stars.', 'Logan becomes jealous when Cody begins to flirt with Caroline during and after rescues; Neely wants to break away from manning the switchboard and become a tower lifeguard; Kaye asks Hobie to help volunteer a group of four young blind children she is looking after at a blind school; The lifeguards must save a blind boy trapped in a forest fire.Mila Kunisguest stars.']
+Difference in row 7:
+Old row: ['114', '"Surf\'s Up"', 'October16,1995', '604']
+New row: ['113', '4', '"Surf\'s Up"', 'Gus Trikonis', 'David Braff', 'October\xa021,\xa01995(1995-10-21)', '6005']
+Difference in row 8:
+Old row: ["A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem."]
+New row: ["A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem. Special guest appearance byThe Beach Boys.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem. Special guest appearance byThe Beach Boys.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem. Special guest appearance byThe Beach Boys.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem. Special guest appearance byThe Beach Boys.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem. Special guest appearance byThe Beach Boys.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem. Special guest appearance byThe Beach Boys.", "A surfer gets ill after surfing in water polluted by E. Coli and it's up to the Baywatch team to solve the problem. Special guest appearance byThe Beach Boys."]
+Difference in row 9:
+Old row: ['115', '"To Everything There Is a Season"', 'October23,1995', '605']
+New row: ['114', '5', '"To Everything There Is a Season"', 'Douglas Schwartz', 'Deborah Schwartz', 'October\xa028,\xa01995(1995-10-28)', '6007']
+Difference in row 10:
+Old row: ["Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics."]
+New row: ["Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics; Logan continues to be insanely jealous with Cody hanging around Caroline, while the manipulative sociopath Neely sees an opportunity to use their feud to her own advantage by continuing to taunt Logan with some damaging information she has about him.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics; Logan continues to be insanely jealous with Cody hanging around Caroline, while the manipulative sociopath Neely sees an opportunity to use their feud to her own advantage by continuing to taunt Logan with some damaging information she has about him.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics; Logan continues to be insanely jealous with Cody hanging around Caroline, while the manipulative sociopath Neely sees an opportunity to use their feud to her own advantage by continuing to taunt Logan with some damaging information she has about him.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics; Logan continues to be insanely jealous with Cody hanging around Caroline, while the manipulative sociopath Neely sees an opportunity to use their feud to her own advantage by continuing to taunt Logan with some damaging information she has about him.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics; Logan continues to be insanely jealous with Cody hanging around Caroline, while the manipulative sociopath Neely sees an opportunity to use their feud to her own advantage by continuing to taunt Logan with some damaging information she has about him.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics; Logan continues to be insanely jealous with Cody hanging around Caroline, while the manipulative sociopath Neely sees an opportunity to use their feud to her own advantage by continuing to taunt Logan with some damaging information she has about him.", "Mitch's mother visits and it is discovered that she has Alzheimer's disease; Cody trains for the Olympics; Logan continues to be insanely jealous with Cody hanging around Caroline, while the manipulative sociopath Neely sees an opportunity to use their feud to her own advantage by continuing to taunt Logan with some damaging information she has about him."]
+Difference in row 11:
+Old row: ['116', '"Leap of Faith"', 'October30,1995', '606']
+New row: ['115', '6', '"Leap of Faith"', 'Douglas Schwartz', 'Deborah Schwartz', 'November\xa04,\xa01995(1995-11-04)', '6002']
+Difference in row 12:
+Old row: ['C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.']
+New row: ['C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.', 'C.J. returns from her trip to France and along with the rest of the team, they train some Junior Lifeguards.']
+Difference in row 13:
+Old row: ['117', '"Face of Fear"', 'November6,1995', '607']
+New row: ['116', '7', '"Face of Fear"', 'Douglas Schwartz', 'Deborah Schwartz', 'November\xa011,\xa01995(1995-11-11)', '6001']
+Difference in row 14:
+Old row: ['Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.']
+New row: ['Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.', 'Hobie and his friends almost drown while surfing in a dangerous part of the beach; Caroline befriends an ex-jockey who is pretending to be blind.']
+Difference in row 15:
+Old row: ['118', '"Hit and Run"', 'November13,1995', '608']
+New row: ['117', '8', '"Hit and Run"', 'Gus Trikonis', 'Grant Rosenberg', 'November\xa018,\xa01995(1995-11-18)', '6009']
+Difference in row 16:
+Old row: ["From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer."]
+New row: ["From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer.", "From headquarters, Caroline sees that the local surfers are getting territorial again. When Mitch is forced to make a rescue, the locals and the victim's friend end up in a fight, but Logan breaks up the fight. Logan is still pursuing his business venture of Aussie swimwear and he has an important meeting with a major clothing manufacturer."]
+Difference in row 17:
+Old row: ['119', '"Home Is Where the Heat Is"', 'November20,1995', '609']
+New row: ['118', '9', '"Home Is Where the Heat Is"', 'L. Lewis Stout', 'Michael Berk', 'November\xa025,\xa01995(1995-11-25)', '6020']
+Difference in row 18:
+Old row: ["Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him."]
+New row: ["Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him.", "Matt Brody returns to Baywatch to try to make up his lost relationship with C.J. But things take an unexpected turn when a group of ruthless modern day pirates take a millionaire couple hostage and place them under water on the wreck of the sunken oil platform with handcuffs and air for six hours. When Matt and Neely speed by in their Scarab motorboat, the pirates take them hostage as well. Meanwhile, Joey's past may jeopardize her adoption to Mitch when a professional beatnik criminal, named Trapper, recruits an unwilling Joey to commit a burglary job as payback for her mother's past scams against him."]
+Difference in row 19:
+Old row: ['120', '"Sweet Dreams"', 'November27,1995', '610']
+New row: ['119', '10', '"Sweet Dreams"', 'Gregory J. Bonann', 'Tanquil Lisa Collins', 'December\xa02,\xa01995(1995-12-02)', '6017']
+Difference in row 20:
+Old row: ["After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team."]
+New row: ["After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team.", "After finding an abandoned baby in his tower, Logan wrongly assumes he's the father and decides to raise it. Cody participates in the trials for the Olympic swim team."]
+Difference in row 21:
+Old row: ['121', '"The Incident"', 'January15,1996', '611']
+New row: ['120', '11', '"The Incident"', 'Gregory J. Bonann', 'Kimmer Ringwald', 'January\xa020,\xa01996(1996-01-20)', '6014']
+Difference in row 22:
+Old row: ['Caroline blames herself after a victim drowns after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself after a victim drowns after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself after a victim drowns after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself after a victim drowns after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.']
+New row: ['Caroline blames herself for a victim drowning after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself for a victim drowning after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself for a victim drowning after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself for a victim drowning after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself for a victim drowning after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself for a victim drowning after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.', 'Caroline blames herself for a victim drowning after a night time rescue. Spurred on by Neely, Caroline takes a walk on the wild side.']
+Difference in row 23:
+Old row: ['122', '"Beauty and the Beast"', 'January29,1996', '612']
+New row: ['121', '12', '"Beauty and the Beast"', 'David W. Hagar', 'David Braff', 'February\xa03,\xa01996(1996-02-03)', '6006']
+Difference in row 24:
+Old row: ['After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model for Inside Sports magazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model for Inside Sports magazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model for Inside Sports magazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model for Inside Sports magazine.']
+New row: ['After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model forInside Sportsmagazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model forInside Sportsmagazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model forInside Sportsmagazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model forInside Sportsmagazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model forInside Sportsmagazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model forInside Sportsmagazine.', 'After swimmers are attacked by an alligator living in a storm drain, Mitch, Logan and Cody hunt for the creature. C.J., Caroline and Neely compete to become the cover model forInside Sportsmagazine.']
+Difference in row 25:
+Old row: ['123', '"Desperate Encounter"', 'February5,1996', '613']
+New row: ['122', '13', '"Desperate Encounter"', 'Douglas Schwartz', 'Deborah Schwartz', 'February\xa010,\xa01996(1996-02-10)', '6018']
+Difference in row 26:
+Old row: ['While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.']
+New row: ['While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.', 'While vacationing in Mexico, Mitch and his new girlfriend witness an attempted murder and are then hunted by the killers. Country and Western singer Jesse Lee Harris helps Logan and the Baywatch lifeguards raise money to save a ranch that conserves rare horse breeds.']
+Difference in row 27:
+Old row: ['124', '"Baywatch Angels"', 'February12,1996', '614']
+New row: ['123', '14', '"Baywatch Angels"', 'Georg Fenady', 'Michele Rogers Berk & Susan Hamilton Brin', 'February\xa017,\xa01996(1996-02-17)', '6019']
+Difference in row 28:
+Old row: ["When Logan is terrorized by a mad man, Caroline dreams that the detectives from TV Show, Charlie's Angels, arrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Monroe and Stephanie is Sabrina.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives from TV Show, Charlie's Angels, arrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Monroe and Stephanie is Sabrina.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives from TV Show, Charlie's Angels, arrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Monroe and Stephanie is Sabrina.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives from TV Show, Charlie's Angels, arrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Monroe and Stephanie is Sabrina."]
+New row: ["When Logan is terrorized by a mad man, Caroline dreams that the detectives fromCharlie's Angelsarrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Munroe and Stephanie is Sabrina Duncan.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives fromCharlie's Angelsarrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Munroe and Stephanie is Sabrina Duncan.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives fromCharlie's Angelsarrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Munroe and Stephanie is Sabrina Duncan.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives fromCharlie's Angelsarrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Munroe and Stephanie is Sabrina Duncan.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives fromCharlie's Angelsarrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Munroe and Stephanie is Sabrina Duncan.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives fromCharlie's Angelsarrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Munroe and Stephanie is Sabrina Duncan.", "When Logan is terrorized by a mad man, Caroline dreams that the detectives fromCharlie's Angelsarrive at Baywatch to help him. In her dream, Caroline is Kelly Garrett, C.J. is Jill Munroe and Stephanie is Sabrina Duncan."]
+Difference in row 29:
+Old row: ['125', '"Bash At the Beach"', 'February19,1996', '615']
+New row: ['124', '15', '"Bash at the Beach"', 'Douglas Schwartz', 'Deborah Schwartz', 'February\xa024,\xa01996(1996-02-24)', '6015']
+Difference in row 30:
+Old row: ['Hulk Hogan and the Baywatch team work to raise money to keep a youth recreation center open. Randy Savage and Ric Flair face off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes from the WCW Bash At The Beach 1995 , which the episode was designed to promote. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hogan and the Baywatch team work to raise money to keep a youth recreation center open. Randy Savage and Ric Flair face off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes from the WCW Bash At The Beach 1995 , which the episode was designed to promote. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hogan and the Baywatch team work to raise money to keep a youth recreation center open. Randy Savage and Ric Flair face off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes from the WCW Bash At The Beach 1995 , which the episode was designed to promote. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hogan and the Baywatch team work to raise money to keep a youth recreation center open. Randy Savage and Ric Flair face off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes from the WCW Bash At The Beach 1995 , which the episode was designed to promote. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".']
+New row: ['Hulk Hoganand the Baywatch team work to raise money to keep a youth recreation center open.Randy SavageandRic Flairface off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes fromWCW\'sBash at the Beach 1995. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hoganand the Baywatch team work to raise money to keep a youth recreation center open.Randy SavageandRic Flairface off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes fromWCW\'sBash at the Beach 1995. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hoganand the Baywatch team work to raise money to keep a youth recreation center open.Randy SavageandRic Flairface off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes fromWCW\'sBash at the Beach 1995. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hoganand the Baywatch team work to raise money to keep a youth recreation center open.Randy SavageandRic Flairface off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes fromWCW\'sBash at the Beach 1995. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hoganand the Baywatch team work to raise money to keep a youth recreation center open.Randy SavageandRic Flairface off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes fromWCW\'sBash at the Beach 1995. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hoganand the Baywatch team work to raise money to keep a youth recreation center open.Randy SavageandRic Flairface off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes fromWCW\'sBash at the Beach 1995. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".', 'Hulk Hoganand the Baywatch team work to raise money to keep a youth recreation center open.Randy SavageandRic Flairface off in a wrestling match for charity; Stephanie discovers that she has developed skin cancer. The title of the episode comes fromWCW\'sBash at the Beach 1995. The wrestling event featured Randy Savage and Ric Flair facing off in a "Lifeguard Match".']
+Difference in row 31:
+Old row: ['126', '"Freefall"', 'February26,1996', '616']
+New row: ['125', '16', '"Freefall"', 'Michael Berk', 'Michael Berk', 'March\xa02,\xa01996(1996-03-02)', '5023']
+Difference in row 32:
+Old row: ['Mitch is involved in a sky-surfing incident which stirs up bad memories; CJ forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident which stirs up bad memories; CJ forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident which stirs up bad memories; CJ forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident which stirs up bad memories; CJ forms a relationship with a football player.']
+New row: ['Mitch is involved in a sky-surfing incident that stirs up bad memories; C.J. forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident that stirs up bad memories; C.J. forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident that stirs up bad memories; C.J. forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident that stirs up bad memories; C.J. forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident that stirs up bad memories; C.J. forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident that stirs up bad memories; C.J. forms a relationship with a football player.', 'Mitch is involved in a sky-surfing incident that stirs up bad memories; C.J. forms a relationship with a football player.']
+Difference in row 33:
+Old row: ['127', '"Sail Away"', 'March18,1996', '617']
+New row: ['126', '17', '"Sail Away"', 'Paul Cajero', 'David Braff', 'March\xa023,\xa01996(1996-03-23)', '6011']
+Difference in row 34:
+Old row: ['Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formerly adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formerly adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formerly adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formerly adopt Joey but unforeseen complications threaten to dash his hopes.']
+New row: ['Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formally adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formally adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formally adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formally adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formally adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formally adopt Joey but unforeseen complications threaten to dash his hopes.', 'Stephanie gets her fellow Baywatch lifeguards to participate in a sailing regatta. Mitch looks to formally adopt Joey but unforeseen complications threaten to dash his hopes.']
+Difference in row 35:
+Old row: ['128', '"Lost and Found"', 'March25,1996', '618']
+New row: ['127', '18', '"Lost and Found"', 'Reza Badiyi', 'Evan Somers', 'March\xa030,\xa01996(1996-03-30)', '6010']
+Difference in row 36:
+Old row: ['Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a wheelchair bound comedian fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a wheelchair bound comedian fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a wheelchair bound comedian fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a wheelchair bound comedian fulfill his dream of swimming in the ocean.']
+New row: ['Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a comedian who uses a wheelchair fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a comedian who uses a wheelchair fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a comedian who uses a wheelchair fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a comedian who uses a wheelchair fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a comedian who uses a wheelchair fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a comedian who uses a wheelchair fulfill his dream of swimming in the ocean.', 'Mitch and Caroline help to reunite a Vietnamese refugee with her American father. C.J. and Cody help a comedian who uses a wheelchair fulfill his dream of swimming in the ocean.']
+Difference in row 37:
+Old row: ['129', '"Forbidden Paradise, Part I"', 'April22,1996', '619']
+New row: ['128', '19', '"Forbidden Paradise, Part I"', 'Douglas Schwartz', 'Deborah Schwartz', 'April\xa027,\xa01996(1996-04-27)', '5024']
+Difference in row 38:
+Old row: ['Mitch, Stephanie, Matt, CJ, Cody, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, CJ, Cody, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, CJ, Cody, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, CJ, Cody, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.']
+New row: ['Mitch, Stephanie, Matt, C.J., Logan, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, C.J., Logan, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, C.J., Logan, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, C.J., Logan, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, C.J., Logan, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, C.J., Logan, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.', 'Mitch, Stephanie, Matt, C.J., Logan, and Caroline travel to Hawaii to train with the Hawaiian lifeguards.']
+Difference in row 39:
+Old row: ['130', '"Forbidden Paradise, Part II"', 'April29,1996', '620']
+New row: ['129', '20', '"Forbidden Paradise, Part II"', 'Douglas Schwartz', 'Deborah Schwartz', 'May\xa04,\xa01996(1996-05-04)', '5025']
+Difference in row 40:
+Old row: ['While in Hawaii, Mitch and Matt are saved by islanders, Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders, Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders, Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders, Stephanie finds love and Logan proposes to Caroline.']
+New row: ['While in Hawaii, Mitch and Matt are saved by islanders; Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders; Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders; Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders; Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders; Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders; Stephanie finds love and Logan proposes to Caroline.', 'While in Hawaii, Mitch and Matt are saved by islanders; Stephanie finds love and Logan proposes to Caroline.']
+Difference in row 41:
+Old row: ['131', '"Last Wave"', 'May6,1996', '621']
+New row: ['130', '21', '"Last Wave"', 'Reza Badiyi', 'Tanquil Lisa Collins & David Braff', 'May\xa011,\xa01996(1996-05-11)', '6016']
+Difference in row 42:
+Old row: ['Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catch Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catch Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catch Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catch Logan and Neely together.']
+New row: ['Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catches Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catches Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catches Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catches Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catches Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catches Logan and Neely together.', 'Kaye is reunited with her ex but disaster strikes. Stephanie seeks treatment for her skin cancer. Caroline catches Logan and Neely together.']
+Difference in row 43:
+Old row: ['132', '"Go For the Gold"', 'May13,1996', '622']
+New row: ['131', '22', '"Go for the Gold"', 'Peter H. Hunt', 'David Braff', 'May\xa018,\xa01996(1996-05-18)', '6012']
+Difference in row 44:
+Old row: ["While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion. He has the medallion appraised and the shop owner offers Cody $3500 for it. But he doesn't accept it and is convinced that he will find more gold at the bottom of the ocean.", "While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion. He has the medallion appraised and the shop owner offers Cody $3500 for it. But he doesn't accept it and is convinced that he will find more gold at the bottom of the ocean.", "While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion. He has the medallion appraised and the shop owner offers Cody $3500 for it. But he doesn't accept it and is convinced that he will find more gold at the bottom of the ocean.", "While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion. He has the medallion appraised and the shop owner offers Cody $3500 for it. But he doesn't accept it and is convinced that he will find more gold at the bottom of the ocean."]
+New row: ['While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion.  He has the medallion appraised and the shop owner offers Cody $3500 for it. But he does not accept it and is convinced that he will find more gold at the bottom of the ocean.', 'While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion.  He has the medallion appraised and the shop owner offers Cody $3500 for it. But he does not accept it and is convinced that he will find more gold at the bottom of the ocean.', 'While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion.  He has the medallion appraised and the shop owner offers Cody $3500 for it. But he does not accept it and is convinced that he will find more gold at the bottom of the ocean.', 'While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion.  He has the medallion appraised and the shop owner offers Cody $3500 for it. But he does not accept it and is convinced that he will find more gold at the bottom of the ocean.', 'While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion.  He has the medallion appraised and the shop owner offers Cody $3500 for it. But he does not accept it and is convinced that he will find more gold at the bottom of the ocean.', 'While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion.  He has the medallion appraised and the shop owner offers Cody $3500 for it. But he does not accept it and is convinced that he will find more gold at the bottom of the ocean.', 'While Stephanie is training Cody in underwater search-and-rescue techniques, Cody finds a Spanish medallion.  He has the medallion appraised and the shop owner offers Cody $3500 for it. But he does not accept it and is convinced that he will find more gold at the bottom of the ocean.']
+
+Page Title: List of The Shadow episodes
+Section: Season 9: (1945 — 1946)
+Caption: Season 9: (1945 — 1946)
+Section not found
+
+Page Title: List of Dragon Ball GT episodes
+Section: Season Box Sets
+Caption: Season Box Sets
+Section not found
+
+Page Title: 2011–12 Liga Indonesia Premier Division (LI)
+Section: Personnel and kit
+Caption: Personnel and kit
+The table was found
+Difference in the header:
+Old header: [['Team', 'Coach', 'Captain', 'Kit manufacturer', 'Shirt sponsor'], ['West Region', 'West Region', 'West Region', 'West Region', 'West Region']]
+New header: [['Team', 'Coach', 'Captain', 'Kit manufacturer', 'Shirt sponsor'], ['Group 1', 'Group 1', 'Group 1', 'Group 1', 'Group 1'], ['Group 2', 'Group 2', 'Group 2', 'Group 2', 'Group 2'], ['Group 3', 'Group 3', 'Group 3', 'Group 3', 'Group 3']]
+Difference in row 1:
+Old row: ['Persebaya Surabaya', 'Freddy Mulli', 'Cucu Hidayat', 'Vilour', 'Arek Televisi Autamaras']
+New row: ['Persikabo Bogor', 'Suimin Diharja', 'Tugihadi', '', '']
+Difference in row 2:
+Old row: ['Persih Tembilahan', 'Vacant', 'Agus Salim', '', '']
+New row: ['Persikota Tangerang', 'Izak J. Doddy Sahetapy', 'Bakri Umarela', '', '']
+Difference in row 3:
+Old row: ['Persiku Kudus', 'Riono Asnan', 'Mardianto', '', '']
+New row: ['Persitara Jakarta Utara', 'Agus Suryanto', 'Gendut Doni Christiawan', '', '']
+Difference in row 4:
+Old row: ['Persip Pekalongan', 'Nezal Mustofa', 'Agustus Nemely', 'Vilour', '']
+New row: ['Pro Duta FC', 'Roberto Bianchi', 'Antonio Soldevilla', 'Umbro', '']
+Difference in row 5:
+Old row: ['Persis Solo', 'Vacant', 'Bahroni Fadli', '', '']
+New row: ['PS Bengkulu', 'Khairul Sopian', 'Taufik Siregar', '', '']
+Difference in row 6:
+Old row: ['Persita Tangerang', 'Elly Idris', 'Luis Edmundo', 'Mitre', '']
+New row: ['PSBL Langsa', 'Amrustian', 'Ahmad Junaidi', '', '']
+Difference in row 7:
+Old row: ['Persitara North Jakarta', 'Syamsul Bachri', 'Patricio Jimenez', 'Uno', 'Prima Agung Indo Graha']
+New row: ['PSLS Lhokseumawe', 'Nasrul Koto', 'Mahdi Sulaiman', '', '']
+Difference in row 8:
+Old row: ['Persitema Temanggung', 'Musorodin', 'Idrus Gunawan', '', '']
+New row: ['PSP Padang', 'Zulkifli Jamal', 'Ardian', '', '']
+Difference in row 9:
+Old row: ['PS Bengkulu', 'M. Nasir', 'Rossi Gutawa', '', 'Mandiri']
+New row: ['PSSB Bireuen', 'Simón Elissetche', 'Zoel Fadhli', '', '']
+Difference in row 10:
+Old row: ['PSGL Gayo Lues', 'Kustiono', 'Adhi Sismanto', '', '']
+New row: ['Persepar Palangkaraya', 'Agus Sutiono', 'Ahmad Faizal', 'Adidas', '']
+Difference in row 11:
+Old row: ['PSIM Yogyakarta', 'Hanafing', 'Nova Zaenal', '', '']
+New row: ['Persik Kediri', 'Djoko Malis Mustafa', 'Oliver Makor', '', 'GGInterSport']
+Difference in row 12:
+Old row: ['East Region', 'East Region', 'East Region', 'East Region', 'East Region']
+New row: ['Persikab Bandung', 'Encang Ibrahim', 'Cahya Sumirat', 'Vilour', '']
+Difference in row 13:
+Old row: ['KSB West Sumbawa', 'Mustaqim', 'Miftahul Huda', 'SPECS', 'BRM']
+New row: ['Persipasi Bekasi', 'Warta Kusuma', 'Mansyur', '', '']
+Difference in row 14:
+Old row: ['Persekam Metro FC', 'Siswantoro', 'Jordie Kartiko', '', '']
+New row: ['Persis Solo', 'Junaidi', 'Javier Roca', 'mitre', '']
+Difference in row 15:
+Old row: ['Persepam Pamekasan', 'Winedi Purwito', 'Tassiou Bako', 'Vilour', 'Merpati']
+New row: ['PPSM Kartika Nusantara', 'Danurwindo', 'Kurniawan Dwi Yulianto', 'mitre', '']
+Difference in row 16:
+Old row: ['Perseru Serui', 'Rahman Usman', 'Ton Harry', 'adidas', 'Bank Papua']
+New row: ['PSCS Cilacap', 'Vacant', 'Taryono', '', 'PT. BMS']
+Difference in row 17:
+Old row: ['Persid Jember', 'Santoso Pribadi', 'Jaya Hartono', '', '']
+New row: ['PSIR Rembang', 'Hariyanto', 'Efendi', '', '']
+Difference in row 18:
+Old row: ['Persigo Gorontalo', 'Arifin Adrian', 'Kardi Gani', '', '']
+New row: ['PSIS Semarang', 'Gusnul Yakin', 'Victor de Souza', 'mitre', 'Wawasan']
+Difference in row 19:
+Old row: ['Perssin Sinjai', 'Ashari', 'Hamdi Haya', '', '']
+New row: ['PSS Sleman', 'Widiantoro', 'Andrid Wibowo', '', '']
+Difference in row 20:
+Old row: ['PS Barito Putera', 'Solehudin', 'Henry Njombe', 'SPECS', 'Hasnur Group']
+New row: ['Gresik United', 'Sasi Kirono', 'Peter Lipede', '', '']
+Difference in row 21:
+Old row: ['PS Mojokerto Putra', '', 'Andri Budianto', '', '']
+New row: ['Madiun Putra FC', 'Hanafi', 'Windu Wibowo', '', '']
+Difference in row 22:
+Old row: ['PSBK Blitar', 'Nus Yadera', 'Perry Somah', 'adidas', '']
+New row: ['Persbul Buol', 'Kamaludin', 'Munawir Basri', '', '']
+Difference in row 23:
+Old row: ['PSBS Biak Numfor', 'Rully Nere', 'Ortiz Kurni', '', 'Bank Papua']
+New row: ['Persemalra Maluku Tenggara', 'Ritham Madubun', 'Andreas Kaanubun', '', '']
+
+Page Title: Movin' with Nancy (album)
+Section: 
+Caption: Track listing
+No tables found in the section
+
+Page Title: List of United States federal courthouses in Alabama
+Section: Key
+Caption: Key
+The table was found
+Difference in the header:
+Old header: [['†', 'Listed on the National Register of Historic Places (NRHP)']]
+New header: []
+Difference in row 1:
+Old row: ['††', 'NRHP-listed and also designated as a National Historic Landmark']
+New row: []
+
+Page Title: 2011 Formula Renault seasons
+Section: 2011   season
+Caption: 2011   season
+Section not found
+
+Page Title: 2001–02 Inverness Caledonian Thistle F.C. season
+Section: Final League table
+Caption: Final League table
+The table was found
+Difference in the header:
+Old header: [['P', 'Team', 'Pld', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts']]
+New header: [['Pos', 'Teamvte', 'Pld', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts']]
+Difference in row 1:
+Old row: ['5', 'Clyde', '36', '13', '10', '13', '51', '56', '–5', '49']
+New row: ['4', 'Ross County', '36', '14', '10', '12', '51', '43', '+8', '52']
+Difference in row 2:
+Old row: ['6', 'Inverness Caledonian Thistle', '36', '13', '9', '14', '60', '51', '9', '48']
+New row: ['5', 'Clyde', '36', '13', '10', '13', '51', '56', '−5', '49']
+Difference in row 3:
+Old row: ['7', 'Arbroath', '36', '14', '6', '16', '42', '59', '–17', '48']
+New row: ['6', 'Inverness CT', '36', '13', '9', '14', '60', '51', '+9', '48']
+
+Page Title: Pandiarajan
+Section: Actor
+Caption: Actor
+The table was found
+Difference in the header:
+Old header: [['Year', 'Film', 'Role', 'Language', 'Notes']]
+New header: [['Year', 'Film', 'Role', 'Notes']]
+Difference in row 1:
+Old row: ['1981', 'Antha Ezhu Naatkal', 'Flower seller in the temple', 'Tamil', 'Uncredited role']
+New row: ['1981', 'Andha 7 Naatkal', 'Flower seller in the temple', 'Cameo appearance']
+Difference in row 2:
+Old row: ['1982', 'Thooral Ninnu Pochu', 'Mridangam artist in "Yen Soga Kadhaiye"', 'Tamil', 'Uncredited role']
+New row: ['1982', 'Thooral Ninnu Pochu', 'Mridangam artist in "Yen Soga Kadhaiye"', 'Cameo appearance']
+Difference in row 3:
+Old row: ['1985', 'Kanni Rasi', '', 'Tamil', 'Cameo appearance']
+New row: ['1982', 'Darling, Darling, Darling', 'New Watchman', 'Cameo appearance']
+Difference in row 4:
+Old row: ['1985', 'Aan Paavam', 'Chinna Pandi', 'Tamil', 'Debut as Hero']
+New row: ['1985', 'Kanni Rasi', 'Person praying', 'Cameo appearanceAlso Director']
+Difference in row 5:
+Old row: ['1986', 'Thaaikku Oru Thaalattu', '', 'Tamil', '']
+New row: ['1985', 'Aan Paavam', 'Chinna Paandi', 'Debut as actor']
+Difference in row 6:
+Old row: ['1987', 'Manaivi Ready', '', 'Tamil', '']
+New row: ['1986', 'Thaaiku Oru Thaalaattu', 'Kannan', '']
+Difference in row 7:
+Old row: ['1987', 'Aayisu Nooru', '', 'Tamil', '']
+New row: ['1987', 'Manaivi Ready', 'Radha', 'Also Director']
+Difference in row 8:
+Old row: ['1987', 'Meendum Mahaan', '', 'Tamil', '']
+New row: ['1987', 'Muthukkal Moondru', 'Pandian', '']
+Difference in row 9:
+Old row: ['1988', 'Etikku Potti', '', 'Tamil', '']
+New row: ['1987', 'Yettiki Potti', 'Balasubramaniam', '']
+Difference in row 10:
+Old row: ['1988', 'Muthukkal Moondru', '', 'Tamil', '']
+New row: ['1987', 'Ullam Kavarntha Kalvan', 'Rajan', '']
+Difference in row 11:
+Old row: ['1988', 'Ullam Kavarndha Kalvan', '', 'Tamil', '']
+New row: ['1987', 'Vaazhga Valarga', 'Pandian', '']
+Difference in row 12:
+Old row: ['1988', 'Kadhanayagan', '', 'Tamil', 'remake of Nadodikattu']
+New row: ['1987', 'Meendum Mahaan', 'Pandian', '']
+Difference in row 13:
+Old row: ['1988', 'Oorai Therinjukithen', '', 'Tamil', '']
+New row: ['1987', 'Aayusu Nooru', 'Doctor Rathnam', '']
+Difference in row 14:
+Old row: ['1988', 'Nethiyadi', '', 'Tamil', 'Also music director']
+New row: ['1988', 'Oorai Therinjikitten', 'Pandian / Rajan', '']
+Difference in row 15:
+Old row: ['1989', 'Dilli Babu', '', 'Tamil', '']
+New row: ['1988', 'Katha Nayagan', 'Mani', '']
+Difference in row 16:
+Old row: ['1989', 'Chinna Chinna Aasaigal', '', 'Tamil', '']
+New row: ['1988', 'Paatti Sollai Thattathe', 'Selvam', '']
+Difference in row 17:
+Old row: ['1989', 'Vai Kozhuppu', '', 'Tamil', '']
+New row: ['1988', 'Jadikketha Moodi', 'Viswanathan', '']
+Difference in row 18:
+Old row: ['1989', 'Patti Sollai Thattathe', '', 'Tamil', '']
+New row: ['1989', 'Kakka Kadi', '', '']
+Difference in row 19:
+Old row: ['1990', 'Pachai Kodi', '', 'Tamil', '']
+New row: ['1989', 'Vaai Kozhuppu', 'Vasu', '']
+Difference in row 20:
+Old row: ['1990', 'Purushan Enakku Arasan', '', 'Tamil', '']
+New row: ['1989', 'Nethiyadi', 'Venu', 'Debut as music director']
+Difference in row 21:
+Old row: ['1990', 'Pudhu vaarisu', '', 'Tamil', '']
+New row: ['1989', 'Ellame En Thangachi', 'Raja', '']
+Difference in row 22:
+Old row: ['1992', 'oor panchaayathu', '', 'Tamil', '']
+New row: ['1989', 'Dilli Babu', 'Dilli Babu', '']
+Difference in row 23:
+Old row: ['1992', 'aadithyan', '', 'Tamil', '']
+New row: ['1989', 'Pudhu Mappillai', 'Pandian', 'Also writer']
+Difference in row 24:
+Old row: ['1993', 'poranthaalum aambalayaa porakkakoodaathu', '', 'Tamil', '']
+New row: ['1989', 'Sariyana Jodi', 'Raja', '']
+Difference in row 25:
+Old row: ['1994', 'Subramaniyaswamy', '', 'Tamil', 'remake of Mazhavilkavadi']
+New row: ['1989', 'Chinna Chinna Aasaigal', 'Vasu', '']
+Difference in row 26:
+Old row: ['1994', 'Killadi Maappillai', '', 'Tamil', '']
+New row: ['1989', 'Thalaippu Seithigal', 'Chitti Babu / Sabapathy', '']
+Difference in row 27:
+Old row: ['1994', 'Neelakuyil', '', 'Tamil', '']
+New row: ['1990', 'Pachai Kodi', 'Balu', '']
+Difference in row 28:
+Old row: ['1994', 'Pandianin Rajyathil', '', 'Tamil', '']
+New row: ['1990', 'Pudhu Vaarisu', 'Pandian', '']
+Difference in row 29:
+Old row: ['1995', 'Valli Vara Pora', '', 'Tamil', 'remake of Meleparambil Aanveedu']
+New row: ['1992', 'Oor Panchayathu', 'Siva', '']
+Difference in row 30:
+Old row: ['1995', 'Thaaikulamae Thaaikulamae', '', 'Tamil', '']
+New row: ['1992', 'Purushan Enakku Arasan', 'Seenu', '']
+Difference in row 31:
+Old row: ['1996', 'Purushan Pondatti', 'Pandian', 'Tamil', '']
+New row: ['1993', 'Aadhityan', 'Chinna Paandi', '']
+Difference in row 32:
+Old row: ['1996', 'Gopala Gopala', "Gopalakrishnan / Usha's grandfather", 'Tamil', '']
+New row: ['1993', 'Poranthalum Ambalaiya Porakka Koodathu', 'Lakshmi', '']
+Difference in row 33:
+Old row: ['1996', 'Maapillai Manasu Poopola', '', 'Tamil', '']
+New row: ['1994', 'Subramaniya Swamy', 'Velayudham', '']
+Difference in row 34:
+Old row: ['1996', 'Kaalam Maari Pochu', 'Muthupandi', 'Tamil', '']
+New row: ['1994', 'Killadi Mappillai', 'Rajaram', '']
+Difference in row 35:
+Old row: ['1996', 'Chumma Irunga Machan', '', 'Tamil', '']
+New row: ['1994', 'Pandianin Rajyathil', 'Pandian', '']
+Difference in row 36:
+Old row: ['1997', 'Manaivikku Mariyadhai', '', 'Tamil', '']
+New row: ['1995', 'Valli Vara Pora', 'Chinna Paandi', '']
+Difference in row 37:
+Old row: ['1998', 'Kavalaipadaathe Sagothara', '', 'Tamil', '']
+New row: ['1995', 'Padikkara Vayasula', '', '']
+Difference in row 38:
+Old row: ['1998', 'atra sakka atra sakka', '', 'Tamil', '']
+New row: ['1995', 'Thaikulame Thaikulame', 'Pandian', '']
+Difference in row 39:
+Old row: ['1998', 'Kumbakonam Gopalu', '', 'Tamil', '']
+New row: ['1995', 'Neela Kuyil', 'Muthusamy', '']
+Difference in row 40:
+Old row: ['1999', 'Suyamvaram', 'Pallavan', 'Tamil', '']
+New row: ['1996', 'Summa Irunga Machan', 'Subramani', '']
+Difference in row 41:
+Old row: ['2000', 'Sundari Neeyum Sundaran Naanum', '', 'Tamil', '']
+New row: ['1996', 'Mappillai Manasu Poopola', 'Manikkam', '']
+Difference in row 42:
+Old row: ['2001', 'Kabadi Kabadi', '', 'Tamil', '']
+New row: ['1996', 'Kaalam Maari Pochu', 'Muthupandi', '']
+Difference in row 43:
+Old row: ['2001', 'En Purushan Ethir Veettu Ponnu', '', 'Tamil', '']
+New row: ['1996', 'Purushan Pondatti', 'Pandian', '']
+Difference in row 44:
+Old row: ['2001', 'Azhagana Naatkal', '', 'Tamil', '']
+New row: ['1996', 'Gopala Gopala', "Gopalakrishnan,Usha's grandfather", 'Dual roles']
+Difference in row 45:
+Old row: ['2001', 'Thaalikaatha Kaaliamman', 'Pandi', 'Tamil', '']
+New row: ['1997', 'Nalla Manusukkaran', 'Chinna Paandi', '']
+Difference in row 46:
+Old row: ['2002', 'Andipatti Arasampatti', 'Andipatti', 'Tamil', '']
+New row: ['1997', 'Adrasakkai Adrasakkai', 'Pandian', '']
+Difference in row 47:
+Old row: ['2003', 'Vaseegara', '', 'Tamil', '']
+New row: ['1998', 'Kavalai Padathe Sagodhara', 'Janakiraman', '']
+Difference in row 48:
+Old row: ['2003', 'Anbuthollai', '', 'Tamil', '']
+New row: ['1998', 'Kumbakonam Gopalu', 'Gopal', '']
+Difference in row 49:
+Old row: ['2003', 'Military', '', 'Tamil', 'Guest appearance']
+New row: ['1999', 'Manaivikku Mariyadhai', 'Pandian', '']
+Difference in row 50:
+Old row: ['2003', 'Vadakku Vaasal', '', 'Tamil', '']
+New row: ['1999', 'Sundari Neeyum Sundaran Naanum', 'Subramani', '']
+Difference in row 51:
+Old row: ['2004', 'Galatta Ganapathy', '', 'Tamil', '']
+New row: ['1999', 'Suyamvaram', 'Pallavan', '']
+Difference in row 52:
+Old row: ['2004', 'Engal Anna', 'Cheenu', 'Tamil', '']
+New row: ['2000', 'Doubles', 'Ganesh', '']
+Difference in row 53:
+Old row: ['2004', 'Giri', '', 'Tamil', '']
+New row: ['2000', 'Kannula Kaasa Kattappa', 'Kannan', '']
+Difference in row 54:
+Old row: ['2004', 'Aarumugaswamy', '', 'Tamil', '']
+New row: ['2001', 'Thaalikaatha Kaaliamman', 'Paandi', '']
+Difference in row 55:
+Old row: ['2004', 'Kathavasheshan', '', 'Malayalam', '']
+New row: ['2001', 'En Iniya Ponnilave', 'Shiva', '']
+Difference in row 56:
+Old row: ['2005', 'London', 'Kadhir', 'Tamil', '']
+New row: ['2001', 'Kabadi Kabadi', 'Pandian', '']
+Difference in row 57:
+Old row: ['2005', 'Maayavi', 'A film director', 'Tamil', '']
+New row: ['2001', 'Azhagana Naatkal', 'Michael', 'Guest appearance']
+Difference in row 58:
+Old row: ['2005', 'Thiru Thiru', '', 'Tamil', '']
+New row: ['2002', 'Andipatti Arasampatti', 'Andipatti', '']
+Difference in row 59:
+Old row: ['2006', 'Perarasu', 'Kandasaamy', 'Tamil', '']
+New row: ['2003', 'Ramachandra', 'Thirunavukkarasu', '']
+Difference in row 60:
+Old row: ['2006', 'Kaivantha Kalai', '', 'Tamil', '']
+New row: ['2003', 'Vaseegara', 'Photographer', 'Guest appearance']
+Difference in row 61:
+Old row: ['2007', 'Kalakkura Chandru', '', 'Tamil', '']
+New row: ['2003', 'Anbu Thollai', 'Singamuthu', '']
+Difference in row 62:
+Old row: ['2008', 'Anjathe', 'Logu', 'Tamil', '']
+New row: ['2003', 'Military', '', 'Guest appearance']
+Difference in row 63:
+Old row: ['2008', 'Ponmagal Vandhaal', '', 'Tamil', '']
+New row: ['2003', 'Galatta Ganapathy', 'Ganapathy', '']
+Difference in row 64:
+Old row: ['2008', 'Pudhupaandi', '', 'Tamil', '']
+New row: ['2003', 'Vadakku Vaasal', 'Ramakrishna', '']
+Difference in row 65:
+Old row: ['2008', 'Nayagan', '', 'Tamil', '']
+New row: ['2003', 'Adhaanda Idhaanda', '', '']
+Difference in row 66:
+Old row: ['2009', 'Thoranai', 'Walter Vetrivel', 'Tamil', '']
+New row: ['2004', 'Engal Anna', 'Cheenu', '']
+Difference in row 67:
+Old row: ['2010', 'Dhairiyam', '', 'Tamil', '']
+New row: ['2004', 'Jairam', 'Sachin Undulkar', '']
+Difference in row 68:
+Old row: ['2010', 'Kola Kolaya Mundhirika', 'Madan', 'Tamil', '']
+New row: ['2004', 'Aarumugaswamy', 'Arumugam', '']
+Difference in row 69:
+Old row: ['2011', 'Kasethaan Kadavulada', 'Duraisingam', 'Tamil', '']
+New row: ['2004', 'Pethi Solla Thattathea', 'Sombu', '']
+Difference in row 70:
+Old row: ['2011', 'Velayudham', 'Head Constable', 'Tamil', '']
+New row: ['2004', 'Jollyman', '', '']
+Difference in row 71:
+Old row: ['2012', 'Vinmeengal', 'Panchu', 'Tamil', '']
+New row: ['2004', 'Settai', 'Chinnasamy', '']
+Difference in row 72:
+Old row: ['2012', 'Mirattal', "Babloo's Father", 'Tamil', '']
+New row: ['2004', 'Giri', "Devaki's potential bridegroom", '']
+Difference in row 73:
+Old row: ['2012', 'Thiruthani', 'Mohanraj', 'Tamil', '']
+New row: ['2004', 'En Purushan Ethir Veetu Ponnu', 'Pandian', '']
+Difference in row 74:
+Old row: ['2012', 'Gaantham', '', 'Tamil', '']
+New row: ['2004', 'Kathavasheshan', 'Kathavarayan', 'Malayalamfilm']
+Difference in row 75:
+Old row: ['2013', 'Kurumbukara Pasanga', '', 'Tamil', '']
+New row: ['2004', 'Sollattuma', 'Paandi', '']
+Difference in row 76:
+Old row: ['2013', 'Thirumanam Ennum Nikkah', '', 'Tamil', 'Filming']
+New row: ['2005', 'London', 'Kathir', '']
+
+Page Title: Eurovision Song Contest 1961
+Section: Scoreboard
+Caption: Scoreboard
+Section not found
+
+Page Title: List of secondary schools in Singapore
+Section: Madrasah
+Caption: Madrasah
+The table was found
+Difference in the header:
+Old header: [['Name', 'Type', 'Area']]
+New header: [['Name', 'Type', 'Area', 'Notes', 'Website']]
+Difference in row 1:
+Old row: ['Madrasah Aljunied Al-Islamiah', 'Independent', '']
+New row: ['Madrasah Aljunied Al-Islamiah', 'Independent', 'Rochor', '', '[147]']
+Difference in row 2:
+Old row: ['Madrasah Al-Irsyad Al-Islamiah', 'Independent', '']
+New row: ['Madrasah Irsyad Zuhri Al-Islamiah', 'Independent', 'Braddell', '', '[148]']
+Difference in row 3:
+Old row: ['Madrasah Al-Arabiah Al-Islamiah', 'Independent', '']
+New row: ['Madrasah Al-Arabiah Al-Islamiah', 'Independent', 'Toa Payoh', '', '[149]']
+Difference in row 4:
+Old row: ['Madrasah Al-Maarif Al-Islamiah', 'Independent', '']
+New row: ['Madrasah Al-Maarif Al-Islamiah', 'Independent', 'Geylang', '', '[150]']
+Difference in row 5:
+Old row: ['Madrasah Alsagoff Al-Arabiah', 'Independent', '']
+New row: ['Madrasah Alsagoff Al-Arabiah', 'Independent', 'Rochor', '', '[151]']
+Difference in row 6:
+Old row: ['Madrasah Wak Tanjong Al-Islamiah', 'Independent', '']
+New row: ['Madrasah Wak Tanjong Al-Islamiah', 'Independent', 'Paya Lebar', '', '[152]']
+
+Page Title: Tennis at the 2012 Summer Olympics – Qualification
+Section: Women's doubles
+Caption: Women's doubles
+The table was found
+Difference in the header:
+Old header: [['No.', 'Combined Rankings', 'Rank', 'Player A', 'Rank', 'Player B', 'NOC'], ['World Ranking', 'World Ranking', 'World Ranking', 'World Ranking', 'World Ranking', 'World Ranking', 'World Ranking']]
+New header: [['No.', 'CombinedRankings', 'Rank', 'Player A', 'Rank', 'Player B', 'NOC'], ['World Ranking', 'World Ranking', 'World Ranking', 'World Ranking', 'World Ranking', 'World Ranking', 'World Ranking'], ['Other entrants', 'Other entrants', 'Other entrants', 'Other entrants', 'Other entrants', 'Other entrants', 'Other entrants'], ['ITF places', 'ITF places', 'ITF places', 'ITF places', 'ITF places', 'ITF places', 'ITF places']]
+Difference in row 4:
+Old row: ['—', '', '5', 'Květa Peschke', '', '', 'Czech Republic']
+New row: ['', '', '5', 'Květa Peschke', '', '', 'Czech Republic']
+Difference in row 7:
+Old row: ['—', '', '9', 'Vania King', '', '', 'United States']
+New row: ['', '', '9', 'Vania King', '', '', 'United States']
+Difference in row 9:
+Old row: ['Other Entrants', 'Other Entrants', 'Other Entrants', 'Other Entrants', 'Other Entrants', 'Other Entrants', 'Other Entrants']
+New row: ['7', '24', "9'", 'Angelique Kerber^', "15'", 'Sabine Lisicki^', 'Germany']
+Difference in row 10:
+Old row: ['7', '24', "9'", 'Angelique Kerber ^', "15'", 'Sabine Lisicki ^', 'Germany']
+New row: ['8', '30', '17', 'Andrea Hlaváčková', '13', 'Lucie Hradecká', 'Czech Republic']
+Difference in row 11:
+Old row: ['8', '30', '17', 'Andrea Hlaváčková', '13', 'Lucie Hradecká', 'Czech Republic']
+New row: ['9', '36', "12'", 'Dominika Cibulková^', "24'", 'Daniela Hantuchová^', 'Slovakia']
+Difference in row 12:
+Old row: ['9', '36', "12'", 'Dominika Cibulková ^', "24'", 'Daniela Hantuchová ^', 'Slovakia']
+New row: ['10', '42', '15', 'Flavia Pennetta^', "27'", 'Francesca Schiavone^', 'Italy']
+Difference in row 13:
+Old row: ['10', '42', '15', 'Flavia Pennetta ^', "27'", 'Francesca Schiavone ^', 'Italy']
+New row: ['11', '44', '16', 'Nuria Llagostera Vives', '28', 'María José Martínez Sánchez^', 'Spain']
+Difference in row 14:
+Old row: ['11', '44', '16', 'Nuria Llagostera Vives', '28', 'María José Martínez Sánchez ^', 'Spain']
+New row: ['12', '47', "26'", 'Petra Cetkovská^', "21'", 'Lucie Šafářová^', 'Czech Republic']
+Difference in row 15:
+Old row: ['12', '47', "26'", 'Petra Cetkovská ^', "21'", 'Lucie Šafářová ^', 'Czech Republic']
+New row: ['13', '50', "11'", 'Li Na^', '39', 'Zhang Shuai', 'China']
+Difference in row 16:
+Old row: ['13', '50', "11'", 'Li Na ^', '39', 'Zhang Shuai', 'China']
+New row: ['14', '52', '31', 'Peng Shuai^', '21', 'Zheng Jie^', 'China']
+Difference in row 17:
+Old row: ['14', '52', '31', 'Peng Shuai ^', '21', 'Zheng Jie ^', 'China']
+New row: ['15', '53', "6'", 'Serena Williams^', "47'", 'Venus Williams^', 'United States']
+Difference in row 18:
+Old row: ['15', '53', "6'", 'Serena Williams ^', "47'", 'Venus Williams ^', 'United States']
+New row: ['16', '53', "28'", 'Anabel Medina Garrigues^', '25', 'Arantxa Parra Santonja', 'Spain']
+Difference in row 19:
+Old row: ['16', '53', "28'", 'Anabel Medina Garrigues ^', '25', 'Arantxa Parra Santonja', 'Spain']
+New row: ['17', '57', '36', 'Jarmila Gajdošová', '19', 'Anastasia Rodionova', 'Australia']
+Difference in row 20:
+Old row: ['17', '57', '36', 'Jarmila Gajdošová', '19', 'Anastasia Rodionova', 'Australia']
+New row: ['18', '61', "25'", 'Julia Görges^', '36', 'Anna-Lena Grönefeld', 'Germany']
+Difference in row 21:
+Old row: ['18', '61', "25'", 'Julia Görges ^', '36', 'Anna-Lena Grönefeld [l ]', 'Germany']
+New row: ['19', '65', '14', 'Gisela Dulko', '51', 'Paola Suárez', 'Argentina']
+Difference in row 22:
+Old row: ['19', '65', '14', 'Gisela Dulko', '51', 'Paola Suárez', 'Argentina']
+New row: ['20', '66', "3'", 'Agnieszka Radwańska^', "63'", 'Urszula Radwańska^', 'Poland']
+Difference in row 23:
+Old row: ['20', '66', "3'", 'Agnieszka Radwańska ^', "63'", 'Urszula Radwańska ^', 'Poland']
+New row: ['21', '67', '62', 'Casey Dellacqua', "5'", 'Samantha Stosur^', 'Australia']
+Difference in row 24:
+Old row: ['21', '67', '62', 'Casey Dellacqua', "5'", 'Samantha Stosur ^', 'Australia']
+New row: ['', '69', '40', 'Irina-Camelia Begu^', '29', 'Monica Niculescu^', 'Romania']
+Difference in row 25:
+Old row: ['—', '69', '40', 'Irina-Camelia Begu ^ [g ]', '29', 'Monica Niculescu ^ [g ]', 'Romania']
+New row: ['22', '90', '49', 'Klaudia Jans-Ignacik', '41', 'Alicja Rosolska', 'Poland']
+Difference in row 26:
+Old row: ['22', '90', '49', 'Klaudia Jans-Ignacik', '41', 'Alicja Rosolska', 'Poland']
+New row: ['23', '91', "51'", 'Sorana Cîrstea^', "40'", 'Simona Halep^', 'Romania']
+Difference in row 27:
+Old row: ['23', '91', "51'", 'Sorana Cîrstea ^', "40'", 'Simona Halep ^', 'Romania']
+New row: ['', '102', "36'", 'Alona Bondarenko^', "66'", 'Kateryna Bondarenko^', 'Ukraine']
+Difference in row 28:
+Old row: ['—', '102', "36' PR", 'Alona Bondarenko ^', "66'", 'Kateryna Bondarenko ^', 'Ukraine']
+New row: ['24', '', '', 'Bye', '', 'Bye', '']
+Difference in row 29:
+Old row: ['24', '', '', 'Bye [q ]', '', 'Bye [q ]', '']
+New row: ['25', '', '', 'Stéphanie Dubois', '', 'Aleksandra Wozniak^', 'Canada']
+Difference in row 30:
+Old row: ['ITF Places', 'ITF Places', 'ITF Places', 'ITF Places', 'ITF Places', 'ITF Places', 'ITF Places']
+New row: ['26', '', '', 'Chuang Chia-jung', '', 'Hsieh Su-wei^', 'Chinese Taipei']
+Difference in row 31:
+Old row: ['25', '', '', 'Stéphanie Dubois', '', 'Aleksandra Wozniak ^', 'Canada']
+New row: ['27', '', '', 'Alizé Cornet^', '', 'Kristina Mladenovic', 'France']
+Difference in row 32:
+Old row: ['26', '', '', 'Chuang Chia-jung', '', 'Hsieh Su-wei ^', 'Chinese Taipei']
+New row: ['28', '', '', 'Margalita Chakhnashvili', '', 'Anna Tatishvili^', 'Georgia']
+Difference in row 33:
+Old row: ['27', '', '', 'Alizé Cornet ^', '', 'Kristina Mladenovic', 'France']
+New row: ['29', '', '', 'Laura Robson^', '', 'Heather Watson^', 'Great Britain']
+Difference in row 34:
+Old row: ['28', '', '', 'Margalita Chakhnashvili', '', 'Anna Tatishvili ^', 'Georgia']
+New row: ['30', '', '', 'Tímea Babos^', '', 'Ágnes Szávay^', 'Hungary']
+Difference in row 35:
+Old row: ['29', '', '', 'Laura Robson ^', '', 'Heather Watson ^', 'Great Britain']
+New row: ['31', '', '', 'Rushmi Chakravarthi', '', 'Sania Mirza', 'India']
+Difference in row 36:
+Old row: ['30', '', '', 'Tímea Babos ^', '', 'Ágnes Szávay ^', 'Hungary']
+New row: ['32', '', '', 'Anne Keothavong^', '', 'Elena Baltacha^', 'Great Britain']
+
+Page Title: Grade I listed buildings in Stroud (district)
+Section: Stroud
+Caption: Stroud
+The table was found
+Difference in the header:
+Old header: [['Name', 'Location', 'Type', 'Completed', 'Date listed', 'Grid ref. Geo-coordinates', 'List entry number', 'Image']]
+New header: [['Name', 'Location', 'Type', 'Completed', 'Date designated', 'Grid ref.Geo-coordinates', 'Entry number', 'Image']]
+Difference in row 1:
+Old row: ['Church of St Mary', 'Arlingham , Stroud', 'Anglican Church', '14th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7065410658 Category:Articles with OS grid coordinates', '1340704', '']
+New row: ['Church of St Mary', 'Arlingham, Stroud', 'Anglican Church', '14th century', '10 January 1955', 'SO706541065851°47′38″N2°25′37″W\ufeff / \ufeff51.793797°N 2.426908°W\ufeff /51.793797; -2.426908\ufeff (Church of St Mary)', '1340704', 'Church of St MaryMore images']
+Difference in row 2:
+Old row: ['Unidentified Monument, About 10m East of Chancel in Churchyard of Church of St Mary', 'Arlingham, Stroud', 'Chest Tomb', 'Late 18th century', '9 Cannot handle non-empty timestamp argument! 1986', 'SO7068410676 Category:Articles with OS grid coordinates', '1090575', '']
+New row: ['Berkeley Castle', 'Berkeley, Stroud', 'Castle', 'Late 11th century', '21 October 1952', 'ST684589909151°41′23″N2°27′28″W\ufeff / \ufeff51.68968°N 2.457696°W\ufeff /51.68968; -2.457696\ufeff (Berkeley Castle)', '1340692', 'Berkeley CastleMore images']
+Difference in row 3:
+Old row: ['Berkeley Castle', 'Berkeley, Gloucestershire', 'Castle', 'Late 11th century', '21 Cannot handle non-empty timestamp argument! 1952', 'ST6845899091 Category:Articles with OS grid coordinates', '1340692', '']
+New row: ['Church of St Mary the Virgin', 'Berkeley, Stroud', 'Anglican Church', '19th century', '30 March 1960', 'ST684709903151°41′21″N2°27′27″W\ufeff / \ufeff51.689141°N 2.457517°W\ufeff /51.689141; -2.457517\ufeff (Church of St Mary the Virgin)', '1304581', 'Church of St Mary the VirginMore images']
+Difference in row 4:
+Old row: ['Church of St Mary the Virgin', 'Berkeley, Gloucestershire', 'Anglican Church', '19th century', '30 Cannot handle non-empty timestamp argument! 1960', 'ST6847099031 Category:Articles with OS grid coordinates', '1304581', '']
+New row: ['Gatehouse to West atBerkeley Castle', 'Berkeley, Stroud', 'Gatehouse', '14th century', '9 September 1985', 'ST684489899451°41′20″N2°27′28″W\ufeff / \ufeff51.688808°N 2.457832°W\ufeff /51.688808; -2.457832\ufeff (Gatehouse to West at Berkeley Castle)', '1304604', 'Gatehouse to West atBerkeley Castle']
+Difference in row 5:
+Old row: ['Gatehouse to West at Berkeley Castle', 'Berkeley, Stroud', 'Gatehouse', '14th century', '9 Cannot handle non-empty timestamp argument! 1985', 'ST6844898994 Category:Articles with OS grid coordinates', '1304604', '']
+New row: ['Tower of Church of St Mary', 'Berkeley, Stroud', 'Bell Tower', '15th century', '30 March 1960', 'ST684589909151°41′23″N2°27′28″W\ufeff / \ufeff51.68968°N 2.457696°W\ufeff /51.68968; -2.457696\ufeff (Tower of Church of St Mary)', '1090634', 'Tower of Church of St MaryMore images']
+Difference in row 6:
+Old row: ['Tower of Church of St Mary', 'Berkeley, Stroud', 'Bell Tower', '15th century', '30 Cannot handle non-empty timestamp argument! 1960', 'ST6845899091 Category:Articles with OS grid coordinates', '1090634', '']
+New row: ['Daneway House', 'Daneway,Bisley-with-Lypiatt, Stroud', 'Cross Passage House', 'Mid-late 14th century', '28 June 1960', 'SO940970363851°43′53″N2°05′13″W\ufeff / \ufeff51.731423°N 2.086874°W\ufeff /51.731423; -2.086874\ufeff (Daneway House)', '1303397', 'Daneway HouseMore images']
+Difference in row 7:
+Old row: ['Daneway House', 'Daneway, Bisley-with-Lypiatt, Stroud', 'Cross Passage House', 'Mid-late 14th century', '28 Cannot handle non-empty timestamp argument! 1960', 'SO9409703638 Category:Articles with OS grid coordinates', '1303397', '']
+New row: ['Dovecote about 40m west of the Mansion', 'Lypiatt Park, Bisley-with-Lypiatt, Stroud', 'Dovecote', 'Medieval', '28 June 1960', 'SO885240587451°45′05″N2°10′04″W\ufeff / \ufeff51.75144°N 2.167643°W\ufeff /51.75144; -2.167643\ufeff (Dovecote about 40m west of the Mansion)', '1155792', 'Upload Photo']
+Difference in row 8:
+Old row: ['Dovecote Approximately 40 Metres West of the Mansion', 'Lypiatt Park , Bisley-with-Lypiatt, Stroud', 'Dovecote', 'Medieval', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8852405874 Category:Articles with OS grid coordinates', '1155792', '']
+New row: ['Granary about 30m north-west of the Mansion', 'Lypiatt Park, Bisley-with-Lypiatt, Stroud', 'Guest House', '1960', '28 June 1960', 'SO885360587551°45′05″N2°10′03″W\ufeff / \ufeff51.751449°N 2.167469°W\ufeff /51.751449; -2.167469\ufeff (Granary about 30m north-west of the Mansion)', '1091274', 'Upload Photo']
+Difference in row 9:
+Old row: ['Granary Approximately 30 Metres North West of the Mansion', 'Lypiatt Park , Bisley-with-Lypiatt, Stroud', 'Guest House', '1960', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8853605875 Category:Articles with OS grid coordinates', '1091274', '']
+New row: ['Mansion', 'Lypiatt Park, Bisley-with-Lypiatt, Stroud', 'Country House', 'Mid 16th century', '28 June 1960', 'SO885870585251°45′04″N2°10′00″W\ufeff / \ufeff51.751243°N 2.166729°W\ufeff /51.751243; -2.166729\ufeff (Mansion)', '1155735', 'MansionMore images']
+Difference in row 10:
+Old row: ['Mansion', 'Lypiatt Park , Bisley-with-Lypiatt, Stroud', 'Country House', 'Mid 16th century', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8858705852 Category:Articles with OS grid coordinates', '1155735', '']
+New row: ['Nether Lypiatt Manorincluding Forecourt Walls, Gateways and Clairvoyee', 'Nether Lypiatt,Brimscombe and Thrupp, Stroud', 'Country House', '1710-17', '21 October 1955', 'SO873910379851°43′58″N2°11′02″W\ufeff / \ufeff51.73275°N 2.183979°W\ufeff /51.73275; -2.183979\ufeff (Nether Lypiatt Manor including Forecourt Walls, Gateways and Clairvoyee)', '1152395', 'Nether Lypiatt Manorincluding Forecourt Walls, Gateways and ClairvoyeeMore images']
+Difference in row 11:
+Old row: ['Nether Lypiatt Manor Including Forecourt Walls,gateways and Clairvoyee', 'Nether Lypiatt, Brimscombe and Thrupp, Stroud', 'Country House', '1710-17', '21 Cannot handle non-empty timestamp argument! 1955', 'SO8739103798 Category:Articles with OS grid coordinates', '1152395', '']
+New row: ['Parish Church of St George', 'Cam, Stroud', 'Parish Church', '13th century', '30 June 1961', 'ST757369934351°41′32″N2°21′09″W\ufeff / \ufeff51.692309°N 2.35243°W\ufeff /51.692309; -2.35243\ufeff (Parish Church of St George)', '1340962', 'Parish Church of St GeorgeMore images']
+Difference in row 12:
+Old row: ['Parish Church of St George', 'Cam, Gloucestershire', 'Parish Church', '13th century', '30 Cannot handle non-empty timestamp argument! 1961', 'ST7573699343 Category:Articles with OS grid coordinates', '1340962', '']
+New row: ['Church of St James', 'Dursley, Stroud', 'Parish Church', '13th century', '1 December 1986', 'ST756929811451°40′53″N2°21′11″W\ufeff / \ufeff51.681257°N 2.35298°W\ufeff /51.681257; -2.35298\ufeff (Church of St James)', '1290832', 'Church of St JamesMore images']
+Difference in row 13:
+Old row: ['Church of St James', 'Dursley , Stroud', 'Parish Church', '13th century', '1 Cannot handle non-empty timestamp argument! 1986', 'ST7569298114 Category:Articles with OS grid coordinates', '1290832', '']
+New row: ['Church of St John the Baptist', 'Elmore, Stroud', 'Parish Church', '13th century', '10 January 1955', 'SO767171492051°49′57″N2°20′21″W\ufeff / \ufeff51.832402°N 2.339287°W\ufeff /51.832402; -2.339287\ufeff (Church of St John the Baptist)', '1340600', 'Church of St John the BaptistMore images']
+Difference in row 14:
+Old row: ['Church of St John the Baptist', 'Elmore, Gloucestershire', 'Parish Church', '13th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7671714920 Category:Articles with OS grid coordinates', '1340600', '']
+New row: ['Frampton Court', 'Frampton on Severn, Stroud', 'Villa', 'Palladian', '10 January 1955', 'SO750060783751°46′07″N2°21′49″W\ufeff / \ufeff51.768646°N 2.363603°W\ufeff /51.768646; -2.363603\ufeff (Frampton Court)', '1153928', 'Frampton CourtMore images']
+Difference in row 15:
+Old row: ['Barn at Manor Farm', 'Frampton-on-Severn', 'Barn', '15th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7484408003 Category:Articles with OS grid coordinates', '1090538', '']
+New row: ['Manor Farmhouse', 'Frampton on Severn, Stroud', 'House', 'Early 16th century', '10 January 1955', 'SO748050798051°46′12″N2°21′59″W\ufeff / \ufeff51.769923°N 2.366526°W\ufeff /51.769923; -2.366526\ufeff (Manor Farmhouse)', '1154192', 'Manor FarmhouseMore images']
+Difference in row 16:
+Old row: ['Frampton Court', 'Frampton-on-Severn, Stroud', 'Villa', 'Palladian', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7500607837 Category:Articles with OS grid coordinates', '1153928', '']
+New row: ['Barn at Manor Farm', 'Frampton on Severn', 'Barn', '15th century', '10 January 1955', 'SO748440800351°46′12″N2°21′57″W\ufeff / \ufeff51.770131°N 2.365963°W\ufeff /51.770131; -2.365963\ufeff (Barn at Manor Farm)', '1090538', 'Barn at Manor Farm']
+Difference in row 17:
+Old row: ['Manor Farmhouse', 'Frampton-on-Severn, Stroud', 'House', 'Early 16th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7480507980 Category:Articles with OS grid coordinates', '1154192', '']
+New row: ['Orangery or Gothick Garden House', 'Frampton on Severn, Stroud', 'Garden House', 'Mid 18th century', '10 January 1955', 'SO750440800251°46′12″N2°21′47″W\ufeff / \ufeff51.770131°N 2.363065°W\ufeff /51.770131; -2.363065\ufeff (Orangery or Gothick Garden House)', '1153988', 'Orangery or Gothick Garden HouseMore images']
+Difference in row 18:
+Old row: ['Orangery or Gothick Garden House', 'Frampton-on-Severn, Stroud', 'Garden House', 'Mid 18th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7504408002 Category:Articles with OS grid coordinates', '1153988', '']
+New row: ['Tithe Barn about 80m west of Frocester Court', 'Frocester, Stroud', 'Tithe Barn', 'c.1300', '10 January 1955', 'SO786340294251°43′29″N2°18′39″W\ufeff / \ufeff51.724786°N 2.310727°W\ufeff /51.724786; -2.310727\ufeff (Tithe Barn about 80m west of Frocester Court)', '1340418', 'Tithe Barn about 80m west of Frocester CourtMore images']
+Difference in row 19:
+Old row: ['Tithe Barn Approximately 80m West of Frocester Court', 'Frocester, Stroud', 'Tithe Barn', 'c. \u20091300', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7863402942 Category:Articles with OS grid coordinates', '1340418', '']
+New row: ['Wanswell Court Farmhouse', 'Wanswell,Hamfallow, Stroud', 'Farmhouse', 'Early 16th century', '21 October 1952', 'SO690630104951°42′26″N2°26′57″W\ufeff / \ufeff51.707318°N 2.449118°W\ufeff /51.707318; -2.449118\ufeff (Wanswell Court Farmhouse)', '1237928', 'Wanswell Court FarmhouseMore images']
+Difference in row 20:
+Old row: ['Wanswell Court Farmhouse', 'Wanswell, Hamfallow , Stroud', 'Farmhouse', 'Early 16th century', '21 Cannot handle non-empty timestamp argument! 1952', 'SO6906301049 Category:Articles with OS grid coordinates', '1237928', '']
+New row: ['Church of St Nicholas', 'Hardwicke, Stroud', 'Parish Church', '13th century', '10 January 1955', 'SO793641243351°48′37″N2°18′03″W\ufeff / \ufeff51.810147°N 2.300725°W\ufeff /51.810147; -2.300725\ufeff (Church of St Nicholas)', '1340591', 'Church of St NicholasMore images']
+Difference in row 21:
+Old row: ['Church of St Nicholas', 'Hardwicke, Stroud', 'Parish Church', '13th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7936412433 Category:Articles with OS grid coordinates', '1340591', '']
+New row: ['Church of All Saints', "Selsley West, King's Stanley, Stroud", 'Parish Church', '1862', '28 June 1960', 'SO829170380751°43′58″N2°14′56″W\ufeff / \ufeff51.732711°N 2.248763°W\ufeff /51.732711; -2.248763\ufeff (Church of All Saints)', '1090729', 'Church of All SaintsMore images']
+Difference in row 22:
+Old row: ['Church of All Saints', "Selsley West, King's Stanley, Stroud", 'Parish Church', '1862', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8291703807 Category:Articles with OS grid coordinates', '1090729', '']
+New row: ['Church of St George', "King's Stanley, Stroud", 'Parish Church', '12th century', '28 June 1960', 'SO810010409651°44′07″N2°16′35″W\ufeff / \ufeff51.735248°N 2.276522°W\ufeff /51.735248; -2.276522\ufeff (Church of St George)', '1090720', 'Church of St GeorgeMore images']
+Difference in row 23:
+Old row: ['Church of St George', "King's Stanley , Stroud", 'Parish Church', '12th century', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8100104096 Category:Articles with OS grid coordinates', '1090720', '']
+New row: ['Main Building at Stanley Mills', "Ryeford,King's Stanley, Stroud", 'Woollen Mill', 'c.1825', '28 June 1960', 'SO811840424251°44′12″N2°16′26″W\ufeff / \ufeff51.736566°N 2.27388°W\ufeff /51.736566; -2.27388\ufeff (Main Building at Stanley Mills)', '1171285', 'Main Building at Stanley MillsMore images']
+Difference in row 24:
+Old row: ['Main Building at Stanley Mills', "Ryeford, King's Stanley, Stroud", 'Woollen Mill', 'c. \u20091825', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8118404242 Category:Articles with OS grid coordinates', '1171285', '']
+New row: ['Abbey Gatehouse and adjoining Wall to East', 'Kingswood, Stroud', 'Abbey', 'Early 16th century', '23 June 1952', 'ST747109203151°37′35″N2°22′00″W\ufeff / \ufeff51.626521°N 2.366741°W\ufeff /51.626521; -2.366741\ufeff (Abbey Gatehouse and adjoining Wall to East)', '1238022', 'Abbey Gatehouse and adjoining Wall to East']
+Difference in row 25:
+Old row: ['Abbey Gatehouse and Adjoining Wall to East', 'Kingswood, Gloucestershire', 'Abbey', 'Early 16th century', '23 Cannot handle non-empty timestamp argument! 1952', 'ST7471092031 Category:Articles with OS grid coordinates', '1238022', '']
+New row: ['Kingswood Abbey', '5 & 7, Abbey St, Kingswood, Stroud', 'Abbey', 'Early 16th century', '23 June 1952', 'ST746989203551°37′36″N2°22′01″W\ufeff / \ufeff51.626557°N 2.366915°W\ufeff /51.626557; -2.366915\ufeff (Kingswood Abbey)', '1238029', 'Upload Photo']
+Difference in row 26:
+Old row: ['Kingswood Abbey', 'Kingswood, Stroud', 'Abbey', 'Early 16th century', '23 Cannot handle non-empty timestamp argument! 1952', 'ST7469892035 Category:Articles with OS grid coordinates', '1238029', '']
+New row: ['Church of St Swithin', 'Leonard Stanley, Stroud', 'Church', '12th century', '28 June 1960', 'SO802310326051°43′40″N2°17′15″W\ufeff / \ufeff51.727704°N 2.287625°W\ufeff /51.727704; -2.287625\ufeff (Church of St Swithin)', '1171487', 'Church of St SwithinMore images']
+Difference in row 27:
+Old row: ['Church of St Swithin', 'Leonard Stanley , Stroud', 'Church', '12th century', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8023103260 Category:Articles with OS grid coordinates', '1171487', '']
+New row: ['Church of St Lawrence', 'LongneyVillage,Longney and Epney, Stroud', 'Parish Church', '13th century', '10 January 1955', 'SO763801243551°48′36″N2°20′38″W\ufeff / \ufeff51.810046°N 2.344007°W\ufeff /51.810046; -2.344007\ufeff (Church of St Lawrence)', '1090797', 'Church of St LawrenceMore images']
+Difference in row 28:
+Old row: ['Church of St Lawrence', 'Longney Village, Longney and Epney, Stroud', 'Parish Church', '13th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7638012435 Category:Articles with OS grid coordinates', '1090797', '']
+New row: ['Church of the Holy Trinity', 'Minchinhampton, Stroud', 'Anglican Church', '1842', '28 June 1960', 'SO872190081451°42′21″N2°11′11″W\ufeff / \ufeff51.705916°N 2.186359°W\ufeff /51.705916; -2.186359\ufeff (Church of the Holy Trinity)', '1340467', 'Church of the Holy TrinityMore images']
+Difference in row 29:
+Old row: ['Church of the Holy Trinity', 'Minchinhampton , Stroud', 'Anglican Church', '1842', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8721900814 Category:Articles with OS grid coordinates', '1340467', '']
+New row: ['Church of St Stephen', 'Moreton Valence, Stroud', 'Anglican Church', '12th century', '10 January 1955', 'SO779530971951°47′08″N2°19′16″W\ufeff / \ufeff51.785691°N 2.321018°W\ufeff /51.785691; -2.321018\ufeff (Church of St Stephen)', '1340346', 'Church of St StephenMore images']
+Difference in row 30:
+Old row: ['Church of St Stephen', 'Moreton Valence, Stroud', 'Anglican Church', '12th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO7795309719 Category:Articles with OS grid coordinates', '1340346', '']
+New row: ['Owlpen Manor', 'Owlpen, Stroud', 'Hall House', 'Mid 16th century', '23 June 1952', 'ST799949837051°41′01″N2°17′27″W\ufeff / \ufeff51.68373°N 2.290774°W\ufeff /51.68373; -2.290774\ufeff (Owlpen Manor)', '1152317', 'Owlpen ManorMore images']
+Difference in row 31:
+Old row: ['Owlpen Manor', 'Owlpen, Stroud', 'Hall House', 'Mid 16th century', '23 Cannot handle non-empty timestamp argument! 1952', 'ST7999498370 Category:Articles with OS grid coordinates', '1152317', '']
+New row: ['Beacon House', 'Painswick, Stroud', 'Row House', '1766', '21 October 1955', 'SO866330972951°47′10″N2°11′43″W\ufeff / \ufeff51.786058°N 2.195185°W\ufeff /51.786058; -2.195185\ufeff (Beacon House)', '1152614', 'Beacon HouseMore images']
+Difference in row 32:
+Old row: ['Beacon House', 'Painswick , Stroud', 'Row House', '1766', '21 Cannot handle non-empty timestamp argument! 1955', 'SO8663309729 Category:Articles with OS grid coordinates', '1152614', '']
+New row: ['Church of St Mary', 'Painswick, Stroud', 'Church', '12th century', '21 October 1955', 'SO866590964351°47′07″N2°11′41″W\ufeff / \ufeff51.785285°N 2.194805°W\ufeff /51.785285; -2.194805\ufeff (Church of St Mary)', '1090990', 'Church of St MaryMore images']
+Difference in row 33:
+Old row: ['Church of St Mary', 'Painswick , Stroud', 'Church', '12th century', '21 Cannot handle non-empty timestamp argument! 1955', 'SO8665909643 Category:Articles with OS grid coordinates', '1090990', '']
+New row: ['Court House', 'Painswick, Stroud', 'Detached House', '16th century', '21 October 1955', 'SO866720956251°47′04″N2°11′41″W\ufeff / \ufeff51.784557°N 2.194613°W\ufeff /51.784557; -2.194613\ufeff (Court House)', '1091005', 'Upload Photo']
+Difference in row 34:
+Old row: ['Court House', 'Painswick, Stroud', 'Detached House', '16th century', '21 Cannot handle non-empty timestamp argument! 1955', 'SO8667209562 Category:Articles with OS grid coordinates', '1091005', '']
+New row: ['Painswick House', 'Painswick, Stroud', 'Country House', '1737', '21 October 1955', 'SO863391046851°47′34″N2°11′58″W\ufeff / \ufeff51.792695°N 2.199477°W\ufeff /51.792695; -2.199477\ufeff (Painswick House)', '1153435', 'Painswick HouseMore images']
+Difference in row 35:
+Old row: ['Painswick House', 'Painswick, Stroud', 'Country House', '1737', '21 Cannot handle non-empty timestamp argument! 1955', 'SO8633910468 Category:Articles with OS grid coordinates', '1153435', '']
+New row: ['Painswick Lodge', 'Painswick, Stroud', 'Country House', '14th century', '21 October 1955', 'SO880891078851°47′44″N2°10′27″W\ufeff / \ufeff51.795612°N 2.174114°W\ufeff /51.795612; -2.174114\ufeff (Painswick Lodge)', '1172571', 'Painswick LodgeMore images']
+Difference in row 36:
+Old row: ['Painswick Lodge', 'Painswick, Stroud', 'Country House', '14th century', '21 Cannot handle non-empty timestamp argument! 1955', 'SO8808910788 Category:Articles with OS grid coordinates', '1172571', '']
+New row: ['Church of St John the Evangelist', 'Slimbridge, Stroud', 'Anglican Church', 'Early 13th century', '30 June 1961', 'SO740380356451°43′49″N2°22′38″W\ufeff / \ufeff51.730184°N 2.37731°W\ufeff /51.730184; -2.37731\ufeff (Church of St John the Evangelist)', '1305799', 'Church of St John the EvangelistMore images']
+Difference in row 37:
+Old row: ['Church of St John the Evangelist', 'Slimbridge , Stroud', 'Anglican Church', 'Early 13th century', '30 Cannot handle non-empty timestamp argument! 1961', 'SO7403803564 Category:Articles with OS grid coordinates', '1305799', '']
+New row: ['Church of St Nicholas', 'Standish, Stroud', 'Anglican Church', 'Early 14th century', '10 January 1955', 'SO800740841551°46′27″N2°17′25″W\ufeff / \ufeff51.774047°N 2.290195°W\ufeff /51.774047; -2.290195\ufeff (Church of St Nicholas)', '1303221', 'Church of St NicholasMore images']
+Difference in row 38:
+Old row: ['Church of St Nicholas', 'Standish, Gloucestershire', 'Anglican Church', 'Early 14th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO8007408415 Category:Articles with OS grid coordinates', '1303221', '']
+New row: ['Church of All Saints', 'Uplands,Stroud', 'Church', '1907-1910', '25 June 1974', 'SO856290568951°44′59″N2°12′34″W\ufeff / \ufeff51.749709°N 2.209572°W\ufeff /51.749709; -2.209572\ufeff (Church of All Saints)', '1340939', 'Church of All SaintsMore images']
+Difference in row 39:
+Old row: ['Church of All Saints', 'Uplands, Stroud', 'Church', '1907-1910', '25 Cannot handle non-empty timestamp argument! 1974', 'SO8562905689 Category:Articles with OS grid coordinates', '1340939', '']
+New row: ["St Peter's Grange with Gateways and Courtyard Walls to East and West", 'Prinknash Park, Upton St. Leonards, Stroud', 'Abbey', 'Mid-late 15th century', '10 January 1955', "SO878371323951°49′04″N2°10′40″W\ufeff / \ufeff51.817644°N 2.177855°W\ufeff /51.817644; -2.177855\ufeff (St Peter's Grange with Gateways and Courtyard Walls to East and West)", '1154946', "St Peter's Grange with Gateways and Courtyard Walls to East and WestMore images"]
+Difference in row 40:
+Old row: ["St Peter's Grange with Gateways and Courtyard Walls to East and West", 'Prinknash Park , Upton St. Leonards, Stroud', 'Abbey', 'Mid-late 15th century', '10 Cannot handle non-empty timestamp argument! 1955', 'SO8783713239 Category:Articles with OS grid coordinates', '1154946', '']
+New row: ['Old Priory', 'North Woodchester,Woodchester, Stroud', 'Country House', 'c.1580', '28 June 1960', 'SO839340317051°43′37″N2°14′02″W\ufeff / \ufeff51.727014°N 2.234007°W\ufeff /51.727014; -2.234007\ufeff (Old Priory)', '1340695', 'Upload Photo']
+Difference in row 41:
+Old row: ['Old Priory', 'North Woodchester, Woodchester , Stroud', 'Country House', 'c. \u20091580', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8393403170 Category:Articles with OS grid coordinates', '1340695', '']
+New row: ['Woodchester Mansion', 'Woodchester, Stroud', 'Country House', '18th century', '28 June 1960', 'SO809020138451°42′39″N2°16′40″W\ufeff / \ufeff51.710861°N 2.277806°W\ufeff /51.710861; -2.277806\ufeff (Woodchester Mansion)', '1340703', 'Woodchester MansionMore images']
+Difference in row 42:
+Old row: ['Woodchester Mansion', 'Woodchester, Stroud', 'Country House', '18th century', '28 Cannot handle non-empty timestamp argument! 1960', 'SO8090201384 Category:Articles with OS grid coordinates', '1340703', '']
+New row: ['Church of St Mary', 'Wotton-under-Edge, Stroud', 'Anglican Church', 'Late 13th century', '30 June 1961', 'ST760199343051°38′21″N2°20′53″W\ufeff / \ufeff51.639157°N 2.347928°W\ufeff /51.639157; -2.347928\ufeff (Church of St Mary)', '1052363', 'Church of St MaryMore images']
+Difference in row 43:
+Old row: ['Church of St Mary', 'Wotton-under-Edge , Stroud', 'Anglican Church', 'Late 13th century', '30 Cannot handle non-empty timestamp argument! 1961', 'ST7601993430 Category:Articles with OS grid coordinates', '1052363', '']
+New row: ['Church of Our Lady of the Annunciation', 'Woodchester, Stroud', 'Church', '1846-49', '23 January 1985', 'SO841610106051°42′29″N2°13′50″W\ufeff / \ufeff51.70805°N 2.230624°W\ufeff /51.70805; -2.230624\ufeff (Church of Our Lady of the Annunciation)', '1340700', 'Church of Our Lady of the AnnunciationMore images']
+
+Page Title: Star Trek: Nemesis
+Section: Music
+Caption: Music
+No tables found in the section
+
+Page Title: 1996–97 Florida Panthers season
+Section: Player stats
+Caption: Player stats
+Section not found
+
+Page Title: Alejandro Jodorowsky
+Section: Filmography
+Caption: Filmography
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: 2011–12 A.C. Milan season
+Section: In
+Caption: In
+The table was found
+Difference in row 1:
+Old row: ['17 Cannot handle non-empty timestamp argument! 2011', 'DF Category:Articles with hCards', 'Philippe Mexès Category:Articles with hCards', 'Roma', 'Free', 'Effective from 1 July']
+New row: ['17 May 2011', 'DF', 'Philippe Mexès', 'Roma', 'Free', 'Effective from 1 July']
+Difference in row 2:
+Old row: ['19 Cannot handle non-empty timestamp argument! 2011', 'DF Category:Articles with hCards', 'Taye Taiwo Category:Articles with hCards', 'Marseille', 'Free', 'Effective from 1 July']
+New row: ['19 May 2011', 'DF', 'Taye Taiwo', 'Marseille', 'Free', 'Effective from 1 July']
+Difference in row 3:
+Old row: ['14 Cannot handle non-empty timestamp argument! 2011', 'GK Category:Articles with hCards', 'Marco Amelia Category:Articles with hCards', 'Genoa', 'Undisclosed', 'Previously on loan']
+New row: ['14 June 2011', 'GK', 'Marco Amelia', 'Genoa', 'Undisclosed', 'Previously onloan']
+Difference in row 4:
+Old row: ['14 Cannot handle non-empty timestamp argument! 2011', 'FW Category:Articles with hCards', 'Gianmarco Zigoni Category:Articles with hCards', 'Genoa', 'Undisclosed', 'Co-ownership resolved']
+New row: ['14 June 2011', 'FW', 'Gianmarco Zigoni', 'Genoa', 'Undisclosed', 'Co-ownershipresolved']
+Difference in row 5:
+Old row: ['22 Cannot handle non-empty timestamp argument! 2011', 'FW Category:Articles with hCards', 'Alberto Paloschi Category:Articles with hCards', 'Genoa', 'Undisclosed', 'Co-ownership resolved']
+New row: ['22 June 2011', 'FW', 'Alberto Paloschi', 'Genoa', 'Undisclosed', 'Co-ownershipresolved']
+Difference in row 6:
+Old row: ['23 Cannot handle non-empty timestamp argument! 2011', 'MF Category:Articles with hCards', 'Wilfred Osuji Category:Articles with hCards', 'Varese', 'Undisclosed', 'Co-ownership resolved']
+New row: ['23 June 2011', 'MF', 'Wilfred Osuji', 'Varese', 'Undisclosed', 'Co-ownershipresolved']
+Difference in row 7:
+Old row: ['25 Cannot handle non-empty timestamp argument! 2011', 'FW Category:Articles with hCards', 'Stephan El Shaarawy Category:Articles with hCards', 'Genoa', 'Undisclosed', 'Co-ownership deal']
+New row: ['25 June 2011', 'FW', 'Stephan El Shaarawy', 'Genoa', 'Undisclosed', 'Co-ownershipdeal']
+Difference in row 8:
+Old row: ['1 Cannot handle non-empty timestamp argument! 2011', 'GK Category:Articles with hCards', 'Ferdinando Coppola Category:Articles with hCards', 'Siena', 'Return from loan', '']
+New row: ['1 July 2011', 'GK', 'Ferdinando Coppola', 'Siena', 'Return fromloan', '']
+Difference in row 9:
+Old row: ['1 Cannot handle non-empty timestamp argument! 2011', 'DF Category:Articles with hCards', 'Oguchi Onyewu Category:Articles with hCards', 'Twente', 'Return from loan', '']
+New row: ['1 July 2011', 'DF', 'Oguchi Onyewu', 'Twente', 'Return fromloan', '']
+Difference in row 10:
+Old row: ['1 Cannot handle non-empty timestamp argument! 2011', 'FW Category:Articles with hCards', 'Gianmario Comi Category:Articles with hCards', 'Torino', 'Undisclosed', 'Co-ownership deal']
+New row: ['1 July 2011', 'FW', 'Gianmario Comi', 'Torino', 'Undisclosed', 'Co-ownershipdeal']
+Difference in row 11:
+Old row: ['5 Cannot handle non-empty timestamp argument! 2011', 'DF Category:Articles with hCards', 'Ricardo Ferreira Category:Articles with hCards', 'Porto', 'Undisclosed', '']
+New row: ['5 July 2011', 'DF', 'Ricardo Ferreira', 'Porto', 'Undisclosed', '']
+Difference in row 12:
+Old row: ['26 Cannot handle non-empty timestamp argument! 2011', 'MF Category:Articles with hCards', 'Alberto Aquilani Category:Articles with hCards', 'Liverpool', 'Loan', 'Option to fully purchase']
+New row: ['26 August 2011', 'MF', 'Alberto Aquilani', 'Liverpool', 'Loan', 'Option to fully purchase']
+Difference in row 13:
+Old row: ['31 Cannot handle non-empty timestamp argument! 2011', 'MF Category:Articles with hCards', 'Antonio Nocerino Category:Articles with hCards', 'Palermo', 'Undisclosed', '']
+New row: ['31 August 2011', 'MF', 'Antonio Nocerino', 'Palermo', 'Undisclosed', '']
+Difference in row 14:
+Old row: ['17 Cannot handle non-empty timestamp argument! 2012', 'MF Category:Articles with hCards', 'Alexander Merkel Category:Articles with hCards', 'Genoa', 'Loan', 'Co-ownership deal']
+New row: ['17 January 2012', 'MF', 'Alexander Merkel', 'Genoa', 'Loan', 'Co-ownershipdeal']
+Difference in row 15:
+Old row: ['18 Cannot handle non-empty timestamp argument! 2012', 'DF Category:Articles with hCards', 'Djamel Mesbah Category:Articles with hCards', 'Lecce', 'Undisclosed', '']
+New row: ['18 January 2012', 'DF', 'Djamel Mesbah', 'Lecce', 'Undisclosed', '']
+Difference in row 16:
+Old row: ['27 Cannot handle non-empty timestamp argument! 2012', 'FW Category:Articles with hCards', 'Maxi López Category:Articles with hCards', 'Catania', 'Loan', 'Option to fully purchase']
+New row: ['27 January 2012', 'FW', 'Maxi López', 'Catania', 'Loan', 'Option to fully purchase']
+Difference in row 17:
+Old row: ['31 Cannot handle non-empty timestamp argument! 2012', 'MF Category:Articles with hCards', 'Sulley Muntari Category:Articles with hCards', 'Internazionale', 'Loan', '']
+New row: ['31 January 2012', 'MF', 'Sulley Muntari', 'Internazionale', 'Loan', '']
+Difference in row 18:
+Old row: ['31 Cannot handle non-empty timestamp argument! 2012', 'FW Category:Articles with hCards', 'Philipp Prosenik Category:Articles with hCards', 'Chelsea', 'Undisclosed', '']
+New row: ['31 January 2012', 'FW', 'Philipp Prosenik', 'Chelsea', 'Undisclosed', '']
+Difference in row 19:
+Old row: ['31 Cannot handle non-empty timestamp argument! 2012', 'FW Category:Articles with hCards', 'Lucas Roggia Category:Articles with hCards', 'Internacional', 'Loan', '']
+New row: ['31 January 2012', 'FW', 'Lucas Roggia', 'Internacional', 'Loan', 'Joined Primavera squad']
+
+Page Title: Primeval
+Section: International broadcast
+Caption: International broadcast
+Section not found
+
+Page Title: List of True Jackson, VP episodes
+Section: Season 2 (2009/10)
+Caption: Season 2 (2009/10)
+Section not found
+
+Page Title: Amarillo Bulls
+Section: Season Records
+Caption: Season Records
+The table was found
+Difference in the header:
+Old header: [['Season', 'GP', 'W', 'L', 'OTL', 'PTS', 'GF', 'GA', 'PIM', 'Finish', 'Playoffs']]
+New header: [['Season', 'GP', 'W', 'L', 'OTL', 'Pts', 'GF', 'GA', 'PIM', 'Finish', 'Playoffs']]
+Difference in row 1:
+Old row: ['Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder', 'Albert Lea Thunder']
+New row: ['2010–11', '58', '36', '16', '6', '78', '209', '171', '1,637', '2nd of 6, South', 'Lost Robertson Cup Semifinal']
+Difference in row 2:
+Old row: ['2008-09', '58', '4', '49', '5', '13', '112', '309', '1,497', '5th, Central', 'did not qualify']
+New row: ['2011–12', '60', '46', '7', '7', '99', '263', '136', '1,550', '1st of 7, South', 'Lost Robertson Cup Semifinal']
+Difference in row 3:
+Old row: ['2009-10', '58', '19', '34', '5', '43', '153', '231', '1,345', '4th, Central', 'lost in 1st Round']
+New row: ['2012–13', '60', '46', '7', '7', '99', '248', '118', '1,268', '1st of 6, South', 'Robertson Cup Champions']
+Difference in row 4:
+Old row: ['Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls', 'Amarillo Bulls']
+New row: ['2013–14', '60', '40', '15', '6', '86', '207', '120', '1,395', '1st of 7, South', 'Lost in Division Finals']
+Difference in row 5:
+Old row: ['2010-11', '58', '36', '16', '6', '78', '209', '171', '1,637', '2nd, South', 'lost in Semifinal']
+New row: ['2014–15', '60', '25', '31', '4', '54', '174', '222', '1,493', '7th of 8, South', 'Did not qualify']
+Difference in row 6:
+Old row: ['2011-12', '60', '46', '7', '7', '99', '263', '136', '1,550', '1st, South', 'lost in Round Robin']
+New row: ['2015–16', '60', '13', '43', '4', '30', '133', '218', '1,211', '6th of 6, South', 'Did not qualify']
+Difference in row 7:
+Old row: ['2012-13', '60', '46', '7', '7', '99', '248', '118', '1,268', '1st, South', 'Won Robertson Cup']
+New row: ['2016–17', '60', '22', '28', '10', '54', '173', '206', '917', '6th of 7, South', 'Did not qualify']
+
+Page Title: Isoline (opera)
+Section: Roles
+Caption: Roles
+The table was found
+Difference in the header:
+Old header: [['Role', 'Voice type', 'Premiere Cast, 26 December 1888 (Conductor: -)']]
+New header: [['Role', 'Voice type', 'Premiere cast,26 December 1888(Conductor: Paul Letombe)']]
+Difference in row 2:
+Old row: ['Daphnis', 'tenor', 'Wolff']
+New row: ['Daphnis', 'tenor', 'Josef Wolff']
+Difference in row 9:
+Old row: ['Une pensionnaire, Nicette', 'soprano', 'Lapierre']
+New row: ['Une pensionnaire, Nicette', 'soprano', 'Germaine Lapierre']
+Difference in row 12:
+Old row: ['Second Désolée', 'soprano', 'Tiphaine']
+New row: ['Second Désolée', 'soprano', 'Jeanne Tiphaine']
+
+Page Title: Alex Yoong
+Section: Complete Audi R8 LMS Cup Results
+Caption: Complete Audi R8 LMS Cup Results
+The table was found
+Difference in the header:
+Old header: [['Year', 'Entrant', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', 'DC', 'Points']]
+New header: [['Year', 'Entrant', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', 'DC', 'Points']]
+Difference in row 1:
+Old row: ['2012', 'Audi GQ', 'SIC1 1', 'SIC2 2', 'ZIC1 6', 'ZIC2 3', 'OIC1 2', 'OIC2 Ret', 'ZIC3 1', 'ZIC4 1', 'SIC3', 'SIC4', 'SIC5 4', 'SIC6 4', '3rd', '167']
+New row: ['2012', 'Audi GQ', 'SIC11', 'SIC22', 'ZIC16', 'ZIC23', 'OIC12', 'OIC2Ret', 'ZIC31', 'ZIC41', 'SIC3DNP', 'SIC4DNP', 'SIC54', 'SIC64', '', '3rd', '167']
+Difference in row 2:
+Old row: ['2013', 'Audi TEDA', 'ZIC1 1', 'ZIC2 2', 'OIC1 6', 'OIC2 1', 'ISC1 DNS', 'ISC2 4', 'SIC1 1', 'SIC2 1', 'SIC1 1', 'SIC2 2', 'MAC', '', '1st*', '186*']
+New row: ['2013', 'Audi TEDA', 'ZIC11', 'ZIC22', 'OIC16', 'OIC21', 'ISC1DNS', 'ISC24', 'SIC11', 'SIC21', 'SIC11', 'SIC22', 'MACDNS', '', '', '2nd', '186']
+
+Page Title: Rodger Davis
+Section: Champions Tour wins (1)
+Caption: Champions Tour wins (1)
+The table was found
+Difference in the header:
+Old header: [['No.', 'Date', 'Tournament', 'Winning score', 'Margin of victory', 'Runner-up']]
+New header: [['No.', 'Date', 'Tournament', 'Winning score', 'Margin ofvictory', 'Runner-up']]
+Difference in row 1:
+Old row: ['1', '23 Mar 2003', 'Toshiba Senior Classic', '–16 (65-64-68=213)', '4 strokes', 'Larry Nelson']
+New row: ['1', '23 Mar2003', 'Toshiba Senior Classic', '−16 (65-64-68=213)', '4 strokes', 'Larry Nelson']
+
+Page Title: Norwegian language
+Section: Examples
+Caption: Examples
+Section not found
+
+Page Title: 1974 Cincinnati Bengals season
+Section: Standings
+Caption: Standings
+The table was found
+Difference in the header:
+Old header: [['AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central'], ['view talk edit', 'W', 'L', 'T', 'PCT', 'DIV', 'CONF', 'PF', 'PA', '']]
+New header: [['AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central', 'AFC Central'], ['viewtalkedit', 'W', 'L', 'T', 'PCT', 'DIV', 'CONF', 'PF', 'PA', 'STK']]
+Difference in row 1:
+Old row: ['Pittsburgh Steelers', '10', '3', '1', '.750', '4–2', '7–3–1', '305', '189', '']
+New row: ['Pittsburgh Steelers', '10', '3', '1', '.750', '4–2', '7–3–1', '305', '189', 'W2']
+Difference in row 2:
+Old row: ['Houston Oilers', '7', '7', '0', '.500', '4–2', '7–4', '236', '282', '']
+New row: ['Houston Oilers', '7', '7', '0', '.500', '4–2', '7–4', '236', '282', 'W1']
+Difference in row 3:
+Old row: ['Cincinnati Bengals', '7', '7', '0', '.500', '3–3', '5–6', '283', '259', '']
+New row: ['Cincinnati Bengals', '7', '7', '0', '.500', '3–3', '5–6', '283', '259', 'L3']
+Difference in row 4:
+Old row: ['Cleveland Browns', '4', '10', '0', '.286', '1–5', '3–8', '251', '344', '']
+New row: ['Cleveland Browns', '4', '10', '0', '.286', '1–5', '3–8', '251', '344', 'L2']
+
+Page Title: Arthur Pic
+Section: Career summary
+Caption: Career summary
+The table was found
+Difference in row 2:
+Old row: ['2008', 'Formul’Academy Euro Series', "Formul'Academy", '14', '6', '6', '6', '9', '146.5', '1st']
+New row: ['2008', 'Formul’Academy Euro Series', 'Auto Sport Academy', '14', '6', '6', '6', '9', '146.5', '1st']
+
+Page Title: King Maker (TV series)
+Section: Royal court
+Caption: Royal court
+Section not found
+
+Page Title: Corações Feridos
+Section: Cast
+Caption: Cast
+The table was found
+Difference in the header:
+Old header: [['Actor/Actress', 'Role']]
+New header: [['Actor/actress', 'Role']]
+Difference in row 37:
+Old row: ['Kako Nolasco', 'Saulo']
+New row: ['Metturo', 'Théo']
+Difference in row 38:
+Old row: ['Paulo Zulu', 'Rodrigo Sotelli']
+New row: ['Kako Nolasco', 'Saulo']
+
+Page Title: List of American Greed episodes
+Section: Season 1 (2007)
+Caption: Season 1 (2007)
+The table was found
+Difference in the header:
+Old header: [['#', 'Title', 'Original air date']]
+New header: [['No.', 'Title', 'Original air date']]
+Difference in row 1:
+Old row: ['1', '"Hook, Line and Sucker / Maxfield Parish Art Heist"', 'June21,2007']
+New row: ['1', '"Hook, Line and Sucker / Maxfield Parrish Art Heist"', 'June\xa021,\xa02007(2007-06-21)']
+Difference in row 2:
+Old row: ['Case 1: Barry Hunt—a successful con artist who left a coast-to-coast trail of deception, deceit and empty bank accounts. A profile of Hunt’s crime and the investors who bought his story. Case 2: A daring heist. Under the cover of darkness, a hole is expertly cut in the roof, an alarm goes haywire and two paintings by famed American artist Maxfield Parrish disappear into the night.', 'Case 1: Barry Hunt—a successful con artist who left a coast-to-coast trail of deception, deceit and empty bank accounts. A profile of Hunt’s crime and the investors who bought his story. Case 2: A daring heist. Under the cover of darkness, a hole is expertly cut in the roof, an alarm goes haywire and two paintings by famed American artist Maxfield Parrish disappear into the night.', 'Case 1: Barry Hunt—a successful con artist who left a coast-to-coast trail of deception, deceit and empty bank accounts. A profile of Hunt’s crime and the investors who bought his story. Case 2: A daring heist. Under the cover of darkness, a hole is expertly cut in the roof, an alarm goes haywire and two paintings by famed American artist Maxfield Parrish disappear into the night.']
+New row: ['Case 1 profiles Barry Hunt, a successfulcon artistwho deceived investors throughout the United States.Case 2 follows the robbery of two paintings by famed American artistMaxfield Parrish. In a night-time heist, a hole is expertly cut in the roof and the paintings disappear even as an alarm goes off.', 'Case 1 profiles Barry Hunt, a successfulcon artistwho deceived investors throughout the United States.Case 2 follows the robbery of two paintings by famed American artistMaxfield Parrish. In a night-time heist, a hole is expertly cut in the roof and the paintings disappear even as an alarm goes off.', 'Case 1 profiles Barry Hunt, a successfulcon artistwho deceived investors throughout the United States.Case 2 follows the robbery of two paintings by famed American artistMaxfield Parrish. In a night-time heist, a hole is expertly cut in the roof and the paintings disappear even as an alarm goes off.']
+Difference in row 3:
+Old row: ['2', '"The Imposter: Dr. Barnes / Interstate Bank Mart Bandit"', 'June28,2007']
+New row: ['2', '"The Impostor: Dr. Barnes / Interstate Bank Mart Bandit"', 'June\xa028,\xa02007(2007-06-28)']
+Difference in row 4:
+Old row: ['Case 1: For twenty years, he was an imposter doctor! Dr. Gerald Barnes has a thriving practice specializing in "executive" medical exams. His salary is six-figures and life is good. But there\'s a small problem: he\'s not the real Dr. Gerald Barnes. Case 2: He leaves no clues behind, only a trail of broken dreams and empty bank accounts. Forty-three robberies in 20 months. The M.O. is always the same. Police say it\'s the work of one man: "The Interstate Bank Mart Bandit!".', 'Case 1: For twenty years, he was an imposter doctor! Dr. Gerald Barnes has a thriving practice specializing in "executive" medical exams. His salary is six-figures and life is good. But there\'s a small problem: he\'s not the real Dr. Gerald Barnes. Case 2: He leaves no clues behind, only a trail of broken dreams and empty bank accounts. Forty-three robberies in 20 months. The M.O. is always the same. Police say it\'s the work of one man: "The Interstate Bank Mart Bandit!".', 'Case 1: For twenty years, he was an imposter doctor! Dr. Gerald Barnes has a thriving practice specializing in "executive" medical exams. His salary is six-figures and life is good. But there\'s a small problem: he\'s not the real Dr. Gerald Barnes. Case 2: He leaves no clues behind, only a trail of broken dreams and empty bank accounts. Forty-three robberies in 20 months. The M.O. is always the same. Police say it\'s the work of one man: "The Interstate Bank Mart Bandit!".']
+New row: ['In case 1, for twenty years,Gerald Barnesfaked being a doctor.He founded a successful practice that specialized in "executive" medical exams, earning a six-figure salary, despite not being the real Dr. Gerald Barnes.In case 2, the Interstate Bank Mart Bandit defrauded people out of their bank accounts, committing 43 robberies in 20 months with the samemodus operandiand no evidence left behind.', 'In case 1, for twenty years,Gerald Barnesfaked being a doctor.He founded a successful practice that specialized in "executive" medical exams, earning a six-figure salary, despite not being the real Dr. Gerald Barnes.In case 2, the Interstate Bank Mart Bandit defrauded people out of their bank accounts, committing 43 robberies in 20 months with the samemodus operandiand no evidence left behind.', 'In case 1, for twenty years,Gerald Barnesfaked being a doctor.He founded a successful practice that specialized in "executive" medical exams, earning a six-figure salary, despite not being the real Dr. Gerald Barnes.In case 2, the Interstate Bank Mart Bandit defrauded people out of their bank accounts, committing 43 robberies in 20 months with the samemodus operandiand no evidence left behind.']
+Difference in row 5:
+Old row: ['3', '"MD\'s $60 Million Deadly Fraud / Art Heist"', 'July5,2007']
+New row: ['3', '"MD\'s $60 Million Deadly Fraud / Art Heist"', 'July\xa05,\xa02007(2007-07-05)']
+Difference in row 6:
+Old row: ["Case 1: A museum quality art collection worth more than $4 million is stolen! Two men, who in a twist of fate, end up working at Fine Arts Express, together hatch a plan to steal museum quality pieces by Picasso , Matisse , and Rothko . Case 2: It sounds like a nightmare—long needles repeatedly jabbed to a patient’s back. But for Dr. Jorge Martinez, it's routine business. Expensive, painful and unnecessary shots are all part of a multi-million dollar billing scheme.", "Case 1: A museum quality art collection worth more than $4 million is stolen! Two men, who in a twist of fate, end up working at Fine Arts Express, together hatch a plan to steal museum quality pieces by Picasso , Matisse , and Rothko . Case 2: It sounds like a nightmare—long needles repeatedly jabbed to a patient’s back. But for Dr. Jorge Martinez, it's routine business. Expensive, painful and unnecessary shots are all part of a multi-million dollar billing scheme.", "Case 1: A museum quality art collection worth more than $4 million is stolen! Two men, who in a twist of fate, end up working at Fine Arts Express, together hatch a plan to steal museum quality pieces by Picasso , Matisse , and Rothko . Case 2: It sounds like a nightmare—long needles repeatedly jabbed to a patient’s back. But for Dr. Jorge Martinez, it's routine business. Expensive, painful and unnecessary shots are all part of a multi-million dollar billing scheme."]
+New row: ['In case 1, two men working at Fine Arts Express conspire to steal museum quality pieces byPicasso,Matisse, andRothko, totalling more than $4 million.In case 2,  Dr. Jorge Martinez routinely gives his patients expensive, painful, and unnecessary shots as part of a multi-million-dollar billing scheme.', 'In case 1, two men working at Fine Arts Express conspire to steal museum quality pieces byPicasso,Matisse, andRothko, totalling more than $4 million.In case 2,  Dr. Jorge Martinez routinely gives his patients expensive, painful, and unnecessary shots as part of a multi-million-dollar billing scheme.', 'In case 1, two men working at Fine Arts Express conspire to steal museum quality pieces byPicasso,Matisse, andRothko, totalling more than $4 million.In case 2,  Dr. Jorge Martinez routinely gives his patients expensive, painful, and unnecessary shots as part of a multi-million-dollar billing scheme.']
+Difference in row 7:
+Old row: ['4', '"Meth Identity Thieves / The Wheaton Bandit "', 'July12,2007']
+New row: ['4', '"Meth Identity Thieves / TheWheaton Bandit"', 'July\xa012,\xa02007(2007-07-12)']
+Difference in row 8:
+Old row: ["Case 1: It's a new crime wave rippling across the west; thieves are committing identity theft to fund their meth drug addictions. Victims are robbed. But the thief takes more than money, the victim's identity is stolen, too. Case 2: Wheaton, Illinois - a nice place to raise a family. But a shadow hangs over this affluent Chicago suburb. A serial bank robber is armed and ready for a fight.", "Case 1: It's a new crime wave rippling across the west; thieves are committing identity theft to fund their meth drug addictions. Victims are robbed. But the thief takes more than money, the victim's identity is stolen, too. Case 2: Wheaton, Illinois - a nice place to raise a family. But a shadow hangs over this affluent Chicago suburb. A serial bank robber is armed and ready for a fight.", "Case 1: It's a new crime wave rippling across the west; thieves are committing identity theft to fund their meth drug addictions. Victims are robbed. But the thief takes more than money, the victim's identity is stolen, too. Case 2: Wheaton, Illinois - a nice place to raise a family. But a shadow hangs over this affluent Chicago suburb. A serial bank robber is armed and ready for a fight."]
+New row: ['In case 1, in the west, there is a trend for thieves to useidentity theftto fundmethaddictions, with the victims also robbed.In case 2, in the affluentChicagosuburbWheaton, Illinois, a serial bank robber is armed and prepared to fight.', 'In case 1, in the west, there is a trend for thieves to useidentity theftto fundmethaddictions, with the victims also robbed.In case 2, in the affluentChicagosuburbWheaton, Illinois, a serial bank robber is armed and prepared to fight.', 'In case 1, in the west, there is a trend for thieves to useidentity theftto fundmethaddictions, with the victims also robbed.In case 2, in the affluentChicagosuburbWheaton, Illinois, a serial bank robber is armed and prepared to fight.']
+Difference in row 9:
+Old row: ['5', '"Religious Prey: Baptist Foundation Of Arizona / Medical Scams: Dr. Mikos"', 'July19,2007']
+New row: ['5', '"Religious Prey: Baptist Foundation Of Arizona / Medical Scams: Dr. Mikos"', 'July\xa019,\xa02007(2007-07-19)']
+Difference in row 10:
+Old row: ['Case 1: The Baptist Foundation of Arizona is a non-profit fundraiser dedicated to the church. Investors believe their money will be secure but millions are lost! “American Greed" unravels the elaborate Ponzi scheme which left a religious community betrayed and baffled. Case 2: The story of a murderous Chicago doctor who bilked Medicare! He’s a caring doctor with a sterling bedside manner. His practice is lucrative. But beneath the charm lies a con artist; a doctor playing the system and making off with more than a million.', 'Case 1: The Baptist Foundation of Arizona is a non-profit fundraiser dedicated to the church. Investors believe their money will be secure but millions are lost! “American Greed" unravels the elaborate Ponzi scheme which left a religious community betrayed and baffled. Case 2: The story of a murderous Chicago doctor who bilked Medicare! He’s a caring doctor with a sterling bedside manner. His practice is lucrative. But beneath the charm lies a con artist; a doctor playing the system and making off with more than a million.', 'Case 1: The Baptist Foundation of Arizona is a non-profit fundraiser dedicated to the church. Investors believe their money will be secure but millions are lost! “American Greed" unravels the elaborate Ponzi scheme which left a religious community betrayed and baffled. Case 2: The story of a murderous Chicago doctor who bilked Medicare! He’s a caring doctor with a sterling bedside manner. His practice is lucrative. But beneath the charm lies a con artist; a doctor playing the system and making off with more than a million.']
+New row: ["In case 1, theBaptist Foundation of Arizonais a non-profit fundraiser dedicated to the religious community, losing millions of dollars of investors's money in aPonzi scheme. Case 2 follows a murderous Chicago doctor with a good bedside manner and lucrative practice, who connedMedicareandplayed the systemto secure over a million dollars.", "In case 1, theBaptist Foundation of Arizonais a non-profit fundraiser dedicated to the religious community, losing millions of dollars of investors's money in aPonzi scheme. Case 2 follows a murderous Chicago doctor with a good bedside manner and lucrative practice, who connedMedicareandplayed the systemto secure over a million dollars.", "In case 1, theBaptist Foundation of Arizonais a non-profit fundraiser dedicated to the religious community, losing millions of dollars of investors's money in aPonzi scheme. Case 2 follows a murderous Chicago doctor with a good bedside manner and lucrative practice, who connedMedicareandplayed the systemto secure over a million dollars."]
+Difference in row 11:
+Old row: ['6', '"Religious Prey: Greater Ministries Int’l / It Takes a Thief"', 'July26,2007']
+New row: ['6', '"Religious Prey: Greater Ministries Int\'l / It Takes a Thief"', 'July\xa026,\xa02007(2007-07-26)']
+Difference in row 12:
+Old row: ["Case 1: A story of religious fraud; a $500 million dollar pyramid scheme. Greater Ministries International founder Gerald Payne has a plan for the faithful to gift the church and double their money. American Greed profiles one of the most lucrative pyramid schemes in history. Case 2: A thief leads a double life. By day, he's a property manager; by night, a cat burglar who executed some of the most daring jewel heists in American history!", "Case 1: A story of religious fraud; a $500 million dollar pyramid scheme. Greater Ministries International founder Gerald Payne has a plan for the faithful to gift the church and double their money. American Greed profiles one of the most lucrative pyramid schemes in history. Case 2: A thief leads a double life. By day, he's a property manager; by night, a cat burglar who executed some of the most daring jewel heists in American history!", "Case 1: A story of religious fraud; a $500 million dollar pyramid scheme. Greater Ministries International founder Gerald Payne has a plan for the faithful to gift the church and double their money. American Greed profiles one of the most lucrative pyramid schemes in history. Case 2: A thief leads a double life. By day, he's a property manager; by night, a cat burglar who executed some of the most daring jewel heists in American history!"]
+New row: ['Case 1 follows one of the most lucrativepyramid schemesin history.Greater Ministries InternationalfounderGerald Paynetold the religious community that they could double their money if they donated to the church, securing $500 million. Case 2 follows acat burglarwho works as a property manager by day and pulls off a number of daring jewel heists by night.', 'Case 1 follows one of the most lucrativepyramid schemesin history.Greater Ministries InternationalfounderGerald Paynetold the religious community that they could double their money if they donated to the church, securing $500 million. Case 2 follows acat burglarwho works as a property manager by day and pulls off a number of daring jewel heists by night.', 'Case 1 follows one of the most lucrativepyramid schemesin history.Greater Ministries InternationalfounderGerald Paynetold the religious community that they could double their money if they donated to the church, securing $500 million. Case 2 follows acat burglarwho works as a property manager by day and pulls off a number of daring jewel heists by night.']
+
+Page Title: Low Ride
+Section: 
+Caption: Track listing
+No tables found in the section
+
+Page Title: Arrochar and Tarbet railway station
+Section: Services
+Caption: Services
+The table was found
+Difference in row 1:
+Old row: ['Garelochhead', '', 'First ScotRail West Highland Line', '', 'Ardlui']
+New row: ['Garelochhead', '', 'ScotRailWest Highland Line', '', 'Ardlui']
+Difference in row 2:
+Old row: ['Garelochhead', '', 'First ScotRail Highland Caledonian Sleeper', '', 'Crianlarich or Ardlui ( request stop )']
+New row: ['Garelochhead', '', 'Caledonian SleeperHighland Caledonian Sleeper', '', 'Ardlui']
+Difference in row 4:
+Old row: ['Glen Douglas Line open; Station closed', '', 'West Highland Railway North British Railway', '', 'Ardlui Line and Station open']
+New row: ['Glen Douglas HaltLine open; Station closed', '', 'West Highland RailwayNorth British Railway', '', 'ArdluiLine and Station open']
+
+Page Title: Miran Pavlin
+Section: International goals
+Caption: International goals
+Section not found
+
+Page Title: One Owner Heart
+Section: Chart performance
+Caption: Chart performance
+Section not found
+
+Page Title: Ronald Ramsay
+Section: Notes
+Caption: Notes
+Section not found
+
+Page Title: Dierenselaan RandstadRail station
+Section: RandstadRail services
+Caption: RandstadRail services
+The table was found
+Difference in the header:
+Old header: [['Preceding station', '', 'RandstadRail', '', 'Following station']]
+New header: [['Service', 'Route', 'Material', 'Frequency']]
+Difference in row 1:
+Old row: ['De La Reyweg toward Javalaan', '', 'Line RR4 ( HTM )', '', 'Tienhovenselaan toward De Uithof']
+New row: ['RR4', "De Uithof-Beresteinaan-Bouwlustlaan-De Rade-Dedemsvaart-Zuidwoldepad-Leyenburg-Monnickendamplein-Tienhovenselaan- Dierenselaan -De La Reyweg-Monstersestraat-MCH Westeinde-Brouwersgracht-Grote Markt-Spui-Den Haag Centraal-Beatrixkwartier-Laan van NOI-Voorburg 't Loo-Leidschendam-Voorburg-Forepark-Leidschenveen-Voorweg (Low Level)-Centrum West-Stadhuis-Palenstein-Seghwaert-Willem Dreeslaan-Oosterheem-Javalaan", 'HTMRegioCitadis Tram', '6x per hour (Monday - Saturday, Every 10 Minutes), 5x per hour (Sundays, Every 12 Minutes), 4x per hour (Evenings, after 8pm, Every 15 Minutes)']
+
+Page Title: 1966 NHL Amateur Draft
+Section: Round one
+Caption: Round one
+The table was found
+Difference in the header:
+Old header: [['Pick #', 'Player', 'Position', 'Nationality', 'NHL team', 'College/junior/club team']]
+New header: [['#', 'Player', 'Nationality', 'NHL team', 'College/junior/club team']]
+Difference in row 1:
+Old row: ['1', 'Barry Gibbs', 'Defence', 'Canada', 'Boston Bruins', 'Estevan Bruins ( SJHL )']
+New row: ['1', 'Barry Gibbs(D)', 'Canada', 'Boston Bruins', 'Estevan Bruins(SJHL)']
+Difference in row 2:
+Old row: ['2', 'Brad Park', 'Defence', 'Canada', 'New York Rangers', 'Toronto Marlboros ( OHA )']
+New row: ['2', 'Brad Park(D)', 'Canada', 'New York Rangers', 'Toronto Marlboros(OHA)']
+Difference in row 3:
+Old row: ['3', 'Terry Caffery', 'Centre', 'Canada', 'Chicago Black Hawks', 'Toronto Marlboros (OHA)']
+New row: ['3', 'Terry Caffery(C)', 'Canada', 'Chicago Black Hawks', 'Toronto Marlboros (OHA)']
+Difference in row 4:
+Old row: ['4', 'John Wright', 'Centre', 'Canada', 'Toronto Maple Leafs', 'West Clair Gaels (OHA)']
+New row: ['4', 'John Wright(C)', 'Canada', 'Toronto Maple Leafs', 'West Clair Gaels (OHA)']
+Difference in row 5:
+Old row: ['5', 'Phil Myre', 'Goaltender', 'Canada', 'Montreal Canadiens', 'Shawinigan Bruins ( QJHL )']
+New row: ['5', 'Phil Myre(G)', 'Canada', 'Montreal Canadiens', 'Shawinigan Bruins(QJHL)']
+Difference in row 6:
+Old row: ['6', 'Steve Atkinson', 'Right Wing', 'Canada', 'Detroit Red Wings', 'Niagara Falls Flyers (OHA)']
+New row: ['6', 'Steve Atkinson(RW)', 'Canada', 'Boston Bruins', 'Niagara Falls Flyers(OHA)']
+Difference in row 7:
+Old row: ['Reference:', 'Reference:', 'Reference:', 'Reference:', 'Reference:', 'Reference:']
+New row: ['', '', '', '', '']
+
+Page Title: United States House of Representatives elections, 2014
+Section: Arkansas
+Caption: Arkansas
+The table was found
+Difference in the header:
+Old header: [['District', 'District', 'Incumbent', 'Incumbent', 'Incumbent', 'This race', 'This race'], ['Location', 'PVI', 'Representative', 'Party', 'First elected', 'Status/result', 'Candidates']]
+New header: [['District', 'District', 'Incumbent', 'Incumbent', 'Incumbent', 'This race', 'This race'], ['Location', 'PVI', 'Representative', 'Party', 'Firstelected', 'Status', 'Candidates']]
+Difference in row 1:
+Old row: ['Arkansas 1', 'R+14', 'Rick Crawford', 'Republican', '2010', 'Incumbent running', 'Rick Crawford (Republican)']
+New row: ['Arkansas\xa01', 'R+14', 'Rick Crawford', 'Republican', '2010', 'Incumbent re-elected.', '▌YRick Crawford(Republican) 63.3%▌Jackie McPherson(Democratic) 32.4%▌Brian Willhite (Libertarian) 4.4%']
+Difference in row 2:
+Old row: ['Arkansas 2', 'R+8', 'Tim Griffin', 'Republican', '2010', 'Incumbent retiring', 'Pat Hays (Democratic)']
+New row: ['Arkansas\xa02', 'R+8', 'Tim Griffin', 'Republican', '2010', 'Incumbent retired to run forLieutenant Governor of Arkansas.Republican hold.', '▌YFrench Hill(Republican) 51.9%▌Pat Hays(Democratic) 43.6%▌Debbie Standiford (Libertarian) 4.5%']
+Difference in row 3:
+Old row: ['Arkansas 3', 'R+19', 'Steve Womack', 'Republican', '2010', 'Incumbent running', 'Steve Womack (Republican)']
+New row: ['Arkansas\xa03', 'R+19', 'Steve Womack', 'Republican', '2010', 'Incumbent re-elected.', '▌YSteve Womack(Republican) 79.4%▌Grant Brand (Libertarian) 20.6%']
+Difference in row 4:
+Old row: ['Arkansas 4', 'R+15', 'Tom Cotton', 'Republican', '2012', 'Incumbent retiring', 'Tommy Moll (Republican) Bruce Westerman (Republican) Janice Percefull (Democratic) James Lee Witt (Democratic)']
+New row: ['Arkansas\xa04', 'R+15', 'Tom Cotton', 'Republican', '2012', 'Incumbent retired torun for U.S. senator.Republican hold.', '▌YBruce Westerman(Republican) 53.8%▌James Lee Witt(Democratic) 42.6%▌Ken Hamilton (Libertarian) 3.7%']
+
+Page Title: Beninese records in athletics
+Section: Men
+Caption: Men
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: La Primera División A Invierno 1996
+Section: Repechaje
+Caption: Repechaje
+Cannot find the specific table: multiple tables in the caption found
+
+Page Title: Athletics at the 2005 Summer Universiade – Men's long jump
+Section: Medalists
+Caption: Medalists
+The table was found
+Difference in the header:
+Old header: [['Gold', 'Silver', 'Bronze']]
+New header: []
+Difference in row 1:
+Old row: ['Volodymyr Zyuskov Ukraine', 'Issam Nima Algeria', 'Stefano Dacastello Italy']
+New row: []
+
+Page Title: Tiago Alves Sales
+Section: Career statistics
+Caption: Career statistics
+The table was found
+Difference in the header:
+Old header: [['Club', 'Season', 'State League', 'State League', 'Brazilian Série A', 'Brazilian Série A', 'Copa do Brasil', 'Total', 'Total'], ['Club', 'Season', 'Apps', 'Goals', 'Apps', 'Goals', 'Apps', 'Apps', 'Goals']]
+New header: [['Club', 'Season', 'League', 'League', 'League', 'State League', 'State League', 'Cup', 'Cup', 'League Cup', 'League Cup', 'Continental', 'Continental', 'Other', 'Other', 'Total', 'Total'], ['Division', 'Apps', 'Goals', 'Apps', 'Goals', 'Apps', 'Goals', 'Apps', 'Goals', 'Apps', 'Goals', 'Apps', 'Goals', 'Apps', 'Goals'], ['Total', 'Total', '9', '0', '8', '1', '0', '0', '0', '0', '0', '0', '0', '0', '17', '1'], ['Total', 'Total', '20', '2', '0', '0', '2', '0', '0', '0', '6', '1', '0', '0', '28', '3'], ['Career total', 'Career total', 'Career total', '214', '54', '15', '1', '19', '1', '2', '0', '6', '1', '2', '0', '258', '57']]
+Difference in row 1:
+Old row: ['Santos', '2011', '3', '1', '9', '0', '0', '12', '1']
+New row: ['Santos', '2011', 'Série A', '9', '0', '3', '1', '0', '0', '—', '—', '0', '0', '—', '—']
+Difference in row 2:
+Old row: ['Santos', '2012', '5', '0', '0', '0', '0', '5', '0']
+New row: ['Santos', '2012', 'Série A', '0', '0', '5', '0', '0', '0', '—', '—', '0', '0', '—', '—']
+Difference in row 3:
+Old row: ['Boa Esporte (loan)', '2012', '0', '0', '9', '1', '0', '9', '1']
+New row: ['Santos', 'Boa Esporte(loan)', '2012', 'Série B', '9', '1', '—', '—', '—', '—', '—', '—', '—', '—', '—', '—']
+Difference in row 4:
+Old row: ['América Mineiro (loan)', '2013', '2', '0', '6', '2', '0', '8', '2']
+New row: ['América-MG(loan)', '2013', '11', 'Série B', '2', '2', '0', '4', '0', '—', '—', '—', '—', '—', '—', '17']
+Difference in row 5:
+Old row: ['Total', 'Total', '10', '1', '24', '3', '0', '34', '4']
+New row: ['Penapolense(loan)', '2014', 'Série D', '0', '0', '5', '0', '—', '—', '—', '—', '—', '—', '—', '—', '5']
+
+Page Title: 1955 European Amateur Boxing Championships
+Section: Medal winners
+Caption: Medal winners
+The table was found
+Difference in row 9:
+Old row: ['Light Heavyweight (– 81 kilograms)', 'Erich Schoeppner West Germany', 'Ulrich Nitzschke East Germany', 'Julius Torma Czechoslovakia Ottavio Panunzi Italy']
+New row: ['Light Heavyweight(– 81 kilograms)', 'Erich SchöppnerWest Germany', 'Ulrich NitzschkeEast Germany', 'Július TormaCzechoslovakiaOttavio PanunziItaly']
+Difference in row 10:
+Old row: ['Heavyweight (+ 81 kilograms)', 'Algirdas Šocikas Soviet Union', 'Horst Witterstein West Germany', 'Horimir Netuka Czechoslovakia Francis Magnetto France']
+New row: ['Heavyweight(+ 81 kilograms)', 'Algirdas ŠocikasSoviet Union', 'Horst WittersteinWest Germany', 'Horymír NetukaCzechoslovakiaFrancis MagnettoFrance']
+
+Page Title: 2012–13 Croatian Cup
+Section: First round
+Caption: First round
+The table was found
+Difference in row 1:
+Old row: ['1 *', 'Vrsar', '0–3', 'Dinamo Zagreb']
+New row: ['1', 'Vrsar', '0–3', 'Dinamo Zagreb']
+Difference in row 12:
+Old row: ['12 *', 'Gorica', '3–0', 'Inter Zaprešić']
+New row: ['12', 'Gorica', '3–0', 'Inter Zaprešić']
+Difference in row 14:
+Old row: ['14 *', 'Lokomotiva', '4–2', 'Segesta']
+New row: ['14', 'Lokomotiva', '4–2', 'Segesta']
+
+Page Title: 2012–13 Segunda División
+Section: Results
+Caption: Results
+The table was found
+Difference in the header:
+Old header: [['Home \\ Away [1 ]', 'ADA', 'ALM', 'BaB', 'CÓR', 'ELC', 'GIR', 'GUA', 'HÉR', 'HUE', 'LPA', 'LUG', 'MIR', 'MUR', 'NUM', 'PON', 'RAC', 'RMC', 'REC', 'SAB', 'SPG', 'VILL', 'XER']]
+New header: [['Home \\ Away', 'ADA', 'ALM', 'BAR', 'CÓR', 'ELC', 'GIR', 'GUA', 'HÉR', 'HUE', 'LPA', 'LUG', 'MIR', 'MUR', 'NUM', 'PNF', 'RAC', 'RMC', 'REC', 'SAB', 'RSG', 'VIL', 'XER']]
+Difference in row 1:
+Old row: ['Alcorcón', '', '0–3', '1–1', '2–1', '1–0', '4–1', '1–1', '1–0', '1–0', '3–1', '2–1', '4–0', '1–0', '1–1', '1–0', '0–1', '3–2', '2–1', '4–0', '0–1', '1–3', '2–1']
+New row: ['Alcorcón', '—', '0–3', '1–1', '2–1', '1–0', '4–1', '1–1', '1–0', '1–0', '3–1', '2–1', '4–0', '1–0', '1–1', '1–0', '0–1', '3–2', '2–1', '4–0', '0–1', '1–3', '2–1']
+Difference in row 2:
+Old row: ['Almería', '0–1', '', '2–2', '3–0', '2–1', '2–1', '4–0', '0–0', '1–0', '2–3', '0–1', '0–0', '3–2', '1–1', '4–1', '2–1', '1–0', '2–1', '5–1', '0–1', '1–1', '2–1']
+New row: ['Almería', '0–1', '—', '2–2', '3–0', '2–1', '2–1', '4–0', '0–0', '1–0', '2–3', '0–1', '0–0', '3–2', '1–1', '4–1', '2–1', '1–0', '2–1', '5–1', '0–1', '1–1', '2–1']
+Difference in row 3:
+Old row: ['Barcelona B', '1–1', '4–5', '', '4–3', '1–1', '4–4', '0–1', '1–0', '0–1', '1–1', '2–2', '1–1', '1–1', '3–3', '2–1', '4–1', '3–1', '2–3', '2–0', '3–0', '0–3', '4–2']
+New row: ['Barcelona B', '1–1', '4–5', '—', '4–3', '1–1', '4–4', '0–1', '1–0', '0–1', '1–1', '2–2', '1–1', '1–1', '3–3', '2–1', '4–1', '3–1', '2–3', '2–0', '3–0', '0–3', '4–2']
+Difference in row 4:
+Old row: ['Córdoba', '1–1', '4–1', '2–1', '', '0–1', '2–0', '1–0', '1–2', '2–2', '5–1', '1–0', '1–2', '5–0', '1–0', '0–1', '2–0', '1–0', '0–2', '3–0', '1–1', '0–2', '0–0']
+New row: ['Córdoba', '1–1', '4–1', '2–1', '—', '0–1', '2–0', '1–0', '1–2', '2–2', '5–1', '1–0', '1–2', '5–0', '1–0', '0–1', '2–0', '1–0', '0–2', '3–0', '1–1', '0–2', '0–0']
+Difference in row 5:
+Old row: ['Elche', '1–0', '1–0', '1–1', '0–0', '', '0–0', '3–1', '2–0', '3–1', '3–1', '0–0', '0–1', '1–0', '4–0', '4–2', '1–0', '1–1', '3–0', '3–2', '2–1', '1–0', '2–1']
+New row: ['Elche', '1–0', '1–0', '1–1', '0–0', '—', '0–0', '3–1', '2–0', '3–1', '3–1', '0–0', '0–1', '1–0', '4–0', '4–2', '1–0', '1–1', '3–0', '3–2', '2–1', '1–0', '2–1']
+Difference in row 6:
+Old row: ['Girona', '3–2', '0–1', '1–0', '2–0', '0–1', '', '2–0', '1–1', '2–1', '5–0', '4–0', '4–0', '5–2', '3–1', '1–0', '1–0', '1–1', '5–2', '0–0', '3–1', '2–0', '2–4']
+New row: ['Girona', '3–2', '0–1', '1–0', '2–0', '0–1', '—', '2–0', '1–1', '2–1', '5–0', '4–0', '4–0', '5–2', '3–1', '1–0', '1–0', '1–1', '5–2', '0–0', '3–1', '2–0', '2–4']
+Difference in row 7:
+Old row: ['Guadalajara', '3–0', '2–2', '0–1', '3–1', '0–0', '1–5', '', '0–2', '1–0', '2–3', '0–1', '1–1', '3–1', '5–1', '2–0', '1–1', '3–4', '1–0', '1–1', '2–1', '0–0', '1–1']
+New row: ['Guadalajara', '3–0', '2–2', '0–1', '3–1', '0–0', '1–5', '—', '0–2', '1–0', '2–3', '0–1', '1–1', '3–1', '5–1', '2–0', '1–1', '3–4', '1–0', '1–1', '2–1', '0–0', '1–1']
+Difference in row 8:
+Old row: ['Hércules', '3–0', '0–2', '0–3', '1–0', '1–2', '2–1', '0–0', '', '2–1', '0–2', '3–0', '1–0', '0–2', '1–3', '1–1', '2–0', '2–4', '1–1', '3–1', '1–1', '1–1', '1–5']
+New row: ['Hércules', '3–0', '0–2', '0–3', '1–0', '1–2', '2–1', '0–0', '—', '2–1', '0–2', '3–0', '1–0', '0–2', '1–3', '1–1', '2–0', '2–4', '1–1', '3–1', '1–1', '1–1', '1–5']
+Difference in row 9:
+Old row: ['Huesca', '0–1', '1–2', '1–4', '1–3', '0–0', '0–0', '2–1', '1–1', '', '0–0', '3–0', '0–1', '2–0', '1–1', '1–1', '1–1', '2–2', '3–1', '4–3', '2–1', '0–1', '3–1']
+New row: ['Huesca', '0–1', '1–2', '1–4', '1–3', '0–0', '0–0', '2–1', '1–1', '—', '0–0', '3–0', '0–1', '2–0', '1–1', '1–1', '1–1', '2–2', '3–1', '4–3', '2–1', '0–1', '3–1']
+Difference in row 10:
+Old row: ['Las Palmas', '1–3', '1–2', '3–3', '3–0', '0–0', '5–2', '0–1', '0–0', '4–0', '', '1–1', '2–0', '3–2', '2–1', '1–0', '1–0', '2–0', '0–0', '1–0', '4–2', '2–2', '1–1']
+New row: ['Las Palmas', '1–3', '1–2', '3–3', '3–0', '0–0', '5–2', '0–1', '0–0', '4–0', '—', '1–1', '2–0', '3–2', '2–1', '1–0', '1–0', '2–0', '0–0', '1–0', '4–2', '2–2', '1–1']
+Difference in row 11:
+Old row: ['Lugo', '0–1', '3–5', '1–2', '1–1', '1–0', '1–2', '0–0', '1–0', '2–4', '3–1', '', '2–0', '2–1', '0–0', '2–2', '3–2', '3–2', '2–0', '2–0', '1–2', '0–0', '4–0']
+New row: ['Lugo', '0–1', '3–5', '1–2', '1–1', '1–0', '1–2', '0–0', '1–0', '2–4', '3–1', '—', '2–0', '2–1', '0–0', '2–2', '3–2', '3–2', '2–0', '2–0', '1–2', '0–0', '4–0']
+Difference in row 12:
+Old row: ['Mirandés', '0–2', '1–0', '3–0', '0–0', '1–2', '1–1', '0–0', '3–2', '0–1', '1–0', '1–0', '', '0–1', '0–0', '0–0', '0–1', '0–0', '2–1', '2–0', '2–1', '1–5', '1–0']
+New row: ['Mirandés', '0–2', '1–0', '3–0', '0–0', '1–2', '1–1', '0–0', '3–2', '0–1', '1–0', '1–0', '—', '0–1', '0–0', '0–0', '0–1', '0–0', '2–1', '2–0', '2–1', '1–5', '1–0']
+Difference in row 13:
+Old row: ['Murcia', '1–1', '1–0', '1–0', '0–0', '1–0', '0–1', '0–1', '2–1', '2–1', '1–0', '0–1', '2–2', '', '0–0', '0–2', '1–0', '0–0', '1–2', '1–1', '1–1', '1–1', '3–1']
+New row: ['Murcia', '1–1', '1–0', '1–0', '0–0', '1–0', '0–1', '0–1', '2–1', '2–1', '1–0', '0–1', '2–2', '—', '0–0', '0–2', '1–0', '0–0', '1–2', '1–1', '1–1', '1–1', '3–1']
+Difference in row 14:
+Old row: ['Numancia', '0–1', '0–0', '0–1', '1–0', '3–1', '2–1', '2–2', '3–2', '1–2', '3–0', '3–0', '0–0', '1–0', '', '0–1', '2–0', '3–3', '0–0', '2–1', '2–0', '1–1', '3–0']
+New row: ['Numancia', '0–1', '0–0', '0–1', '1–0', '3–1', '2–1', '2–2', '3–2', '1–2', '3–0', '3–0', '0–0', '1–0', '—', '0–1', '2–0', '3–3', '0–0', '2–1', '2–0', '1–1', '3–0']
+Difference in row 15:
+Old row: ['Ponferradina', '2–0', '2–2', '3–2', '3–5', '1–1', '2–0', '2–2', '1–0', '2–1', '0–1', '0–1', '3–1', '1–0', '1–1', '', '2–2', '2–0', '1–0', '3–1', '1–0', '0–1', '0–1']
+New row: ['Ponferradina', '2–0', '2–2', '3–2', '3–5', '1–1', '2–0', '2–2', '1–0', '2–1', '0–1', '0–1', '3–1', '1–0', '1–1', '—', '2–2', '2–0', '1–0', '3–1', '1–0', '0–1', '0–1']
+Difference in row 16:
+Old row: ['RacingSantander', '2–1', '3–4', '1–2', '1–3', '0–0', '0–1', '0–0', '3–0', '1–0', '0–1', '0–0', '2–0', '2–1', '1–1', '2–1', '', '1–0', '3–0', '0–1', '0–0', '0–3', '1–1']
+New row: ['Racing Santander', '2–1', '3–4', '1–2', '1–3', '0–0', '0–1', '0–0', '3–0', '1–0', '0–1', '0–0', '2–0', '2–1', '1–1', '2–1', '—', '1–0', '3–0', '0–1', '0–0', '0–3', '1–1']
+Difference in row 17:
+Old row: ['Real Madrid Castilla', '4–0', '2–1', '3–2', '4–0', '0–1', '0–0', '2–1', '1–1', '5–1', '3–2', '3–1', '6–1', '2–0', '2–4', '1–2', '4–0', '', '0–1', '2–3', '2–4', '5–0', '3–2']
+New row: ['Real Madrid Castilla', '4–0', '2–1', '3–2', '4–0', '0–1', '0–0', '2–1', '1–1', '5–1', '3–2', '3–1', '6–1', '2–0', '2–4', '1–2', '4–0', '—', '0–1', '2–3', '2–4', '5–0', '3–2']
+Difference in row 18:
+Old row: ['Recreativo', '4–2', '0–2', '2–0', '2–1', '1–2', '1–3', '1–0', '0–2', '0–0', '0–0', '3–0', '1–0', '3–2', '2–0', '0–2', '1–0', '1–3', '', '2–5', '1–1', '2–0', '2–0']
+New row: ['Recreativo', '4–2', '0–2', '2–0', '2–1', '1–2', '1–3', '1–0', '0–2', '0–0', '0–0', '3–0', '1–0', '3–2', '2–0', '0–2', '1–0', '1–3', '—', '2–5', '1–1', '2–0', '2–0']
+Difference in row 19:
+Old row: ['Sabadell', '2–0', '3–0', '3–2', '1–1', '0–0', '4–1', '2–1', '1–2', '1–0', '0–4', '0–1', '1–1', '2–2', '2–1', '0–3', '0–2', '3–1', '1–1', '', '4–3', '0–0', '3–0']
+New row: ['Sabadell', '2–0', '3–0', '3–2', '1–1', '0–0', '4–1', '2–1', '1–2', '1–0', '0–4', '0–1', '1–1', '2–2', '2–1', '0–3', '0–2', '3–1', '1–1', '—', '4–3', '0–0', '3–0']
+Difference in row 20:
+Old row: ['SportingdeGijón', '2–1', '2–1', '5–2', '3–0', '0–2', '4–0', '3–0', '0–1', '1–0', '1–1', '1–1', '1–1', '2–3', '1–1', '2–3', '1–2', '1–0', '0–0', '0–0', '', '2–0', '3–0']
+New row: ['Sporting Gijón', '2–1', '2–1', '5–2', '3–0', '0–2', '4–0', '3–0', '0–1', '1–0', '1–1', '1–1', '1–1', '2–3', '1–1', '2–3', '1–2', '1–0', '0–0', '0–0', '—', '2–0', '3–0']
+Difference in row 21:
+Old row: ['Villarreal', '4–0', '1–0', '1–3', '2–0', '2–3', '4–1', '2–1', '1–0', '1–1', '1–1', '1–1', '2–0', '1–1', '6–1', '3–0', '1–0', '2–1', '1–1', '3–0', '2–1', '', '3–2']
+New row: ['Villarreal', '4–0', '1–0', '1–3', '2–0', '2–3', '4–1', '2–1', '1–0', '1–1', '1–1', '1–1', '2–0', '1–1', '6–1', '3–0', '1–0', '2–1', '1–1', '3–0', '2–1', '—', '3–2']
+Difference in row 22:
+Old row: ['Xerez', '2–4', '0–2', '2–1', '1–3', '0–0', '0–2', '0–1', '0–0', '1–1', '1–2', '1–0', '0–4', '0–3', '2–0', '1–2', '1–1', '0–1', '2–0', '0–1', '0–2', '0–0', '']
+New row: ['Xerez', '2–4', '0–2', '2–1', '1–3', '0–0', '0–2', '0–1', '0–0', '1–1', '1–2', '1–0', '0–4', '0–3', '2–0', '1–2', '1–1', '0–1', '2–0', '0–1', '0–2', '0–0', '—']
+
+Page Title: Catherine McClements
+Section: Self
+Caption: Self
+The table was found
+Difference in the header:
+Old header: [['Name', 'Year', 'Notes']]
+New header: [['Year', 'Title', 'Role', 'Notes']]
+Difference in row 1:
+Old row: ['Doing Time (TV documentary)', '1999', 'Narrated the 10-part series.']
+New row: ['1999', 'Doing Time', 'Narrator', '10-part TV documentary']
+Difference in row 2:
+Old row: ['Good Morning Australia (TV)', '2000', 'Guest, hosted by Bert Newton .']
+New row: ['2000; 2002; 2003', 'Good Morning Australia', 'Guest', 'TV series, 4 episodes']
+Difference in row 3:
+Old row: ['Good Morning Australia (TV)', '2002', 'Guest, hosted Bert Newton .']
+New row: ['2003', 'Rove Live', 'Guest', 'TV series']
+Difference in row 4:
+Old row: ['Rove Live (TV)', '2003', 'Guest, hosted by Rove McManus .']
+New row: ['2003', 'The Fat', 'Guest', 'TV series']
+Difference in row 5:
+Old row: ['The Fat (TV)', '2003', 'Guest, hosted by Tony Squires .']
+New row: ['2009', 'Whale Patrol', 'Narrator', 'TV documentary']
+Difference in row 6:
+Old row: ['Whale Patrol (TV documentary)', '2009', 'Narrated.']
+New row: ['2010', 'The Circle', 'Guest', 'TV series']
+Difference in row 7:
+Old row: ['The Circle', '2010', 'Guest, hosted by Chrissie Swan and Gorgi Coghlan .']
+New row: ['2010', 'AFI Awards', 'Presenter', 'TV special']
+Difference in row 8:
+Old row: ['AFI Awards (TV)', '2010', 'Presenter.']
+New row: ['2011', 'Things on Sunday: Sex', 'Panel member', 'Malthouse Theatre']
+Difference in row 9:
+Old row: ['Things on Sunday: Sex. Malthouse Theatre', '2011', 'Panel member.']
+New row: ['2011', 'Logie Awards', 'Presenter', 'TV special']
+Difference in row 10:
+Old row: ['Logie Awards (TV)', '2011', 'Presenter.']
+New row: ['2011', 'IF Awards', 'Presenter', 'TV special']
+Difference in row 11:
+Old row: ['IF Awards (TV)', '2011', 'Presenter.']
+New row: ['2013', 'Astra Awards', 'Presenter', 'TV special']
+Difference in row 12:
+Old row: ['Astra Awards (TV)', '2013', 'Presenter.']
+New row: ['2015', 'Sperm Donors Anonymous', 'Narrator', 'TV documentary']
+
+Page Title: Next Top Model (Greece)
+Section: Seasons
+Caption: Seasons
+The table was found
+Difference in the header:
+Old header: [['Season', 'Premiere date', 'Winner', 'Runner-up', 'Other contestants in order of elimination', 'Number of contestants', 'International Destinations']]
+New header: [['Season', 'Premiere date', 'Winner', 'Runner-up', 'Other contestantsin order of elimination', 'Number of contestants', 'International Destination(s)']]
+Difference in row 1:
+Old row: ['1', 'October 12, 2009', 'Seraina Kazamia', 'Monica Kwiecien', 'Zoe Tranoudaki, Vaso Vilegas, Nina Kalogeropoulou- Knezevic (quit), Katia Marinaki, Danae Georganda, Marsida Devole, Anthi Tsompanidou (quit), Areti Stathopoulou, Denia Agalianou, Ramona Koseleva (quit), Christina Pantelidi, Nayla Gougni, Athina Mourkoussi, Demetra Alexandraki, Maria Iltsevich, Ioanna Ntenti', '18', 'Milan London']
+New row: ['1', '10 September 2018', 'Noune Kazaryan', 'Evelina Skichko', 'Sofia Zachariadou, Ioanna Desylla, Katerina Visseri, Marianna Mantesi, Garifallia Kalifoni (quit) & Elena Kalliontzi, Meggy Ndrio, Rozana Koutsoukou, Eirini Sterianou, Ioanna Sarri, Christianna Skoura, Xanthi Jeferou (quit), Agapi Olagbegi,Mikaela Fotiadis, Anna Tsakouridou, Elda Laska & Eirini Ermidou, Evi Ioannidou, Anna Amanatidou, Marianna Painesi', '22', 'None']
+Difference in row 2:
+Old row: ['2', 'October 11, 2010', 'Cindy Toli', 'Evangelia Koutalidou', 'Maria Markatsian, Electra Tsela, Rubini Agapitou, Agne Panagiotatou, Kelly Vourtsi (quit), Aliki Karpodini (quit), Marina Klitsa, Laura-Ann Markopoulioti, Fenia Dimopoulou, Emily Nicolaidou, Stephania Papagianni, Jian Nan Peng, Irene Aligizaki, Nancy Papastavrou, Georgia Antoniou, Jessica Anthi (quit), Ioanna Papagianni, Elena Papadopoulou', '20', 'Paris / Nice Istanbul']
+New row: ['2', '8 September 2019', 'Anna Maria Iliadou&Katya Tarabanko', 'Keisi Mizhiu', 'Katerina Peftitsi, Argyro Maglari, Silia Evangelou, Lydia Katsanikaki, Ioanna Kyritsi, Gloria Deniki, Nina Tzivanidou, Martina Khafichuk (quit), Olga Kalogirou, Suzanna Cuol, Spyroula Kaizer, Marina Grigoriou, Emmanuela Maina, Asimina Charitou, Eleftheria Karnava, Konstantina Florou & Popi Galetsa, Ilda Kroni, Anna Hadji, Hara Pappa, Maria Michalopoulou', '24', 'Milan']
+
+Page Title: List of Major League Baseball triples champions
+Section: American Association
+Caption: American Association
+The table was found
+The table did not change.
+
